@@ -1,0 +1,1001 @@
+property_id,address,city,state,zip_code,type,bedrooms,bathrooms,sqft,list_price,listing_date
+27,Micheal Beard,Port Kimberly,Vermont,28,E,51,27562.01,21,2235.81,6/1/21
+40,Jeffrey Woods,Durhamstad,Tennessee,24,A,68,60326.22,64,1124.55,10/8/22
+44,Troy Cox,Andreburgh,Maryland,30,B,46,65353.63,36,26174.69,3/25/22
+65,Danny Cunningham Jr.,Port John,Minnesota,56,A,65,24513.88,18,18984.05,7/26/20
+26,Andrew Newman,Michellemouth,New Jersey,25,A,51,4030.2,56,67698.74,11/18/22
+56,Dalton Knapp,Lake Joannaton,Illinois,22,C,23,85569.43,55,21180.96,1/7/23
+56,Lee Williams,Vargastown,Indiana,41,A,21,43099.92,71,96280.02,1/19/22
+40,Ross Woods,South Michael,Montana,19,B,26,89795.53,23,70902.12,4/4/25
+61,Paul Chavez,Lake Mackenzieshire,Maine,61,B,49,83977.58,65,38091.23,4/1/23
+56,John Cunningham,Frederickfurt,West Virginia,63,B,69,13912.33,55,39447.26,8/29/23
+25,Shawn Miller,South Denise,Oregon,67,A,49,36057.5,64,90498.81,11/12/22
+50,Robert Wade,Lake Patrick,New Hampshire,41,A,75,28294.31,30,49209.94,1/26/22
+34,Jesus Church,East Jefferyberg,West Virginia,28,A,35,99272.11,27,39513.28,10/6/21
+66,Brian Yang,Garcialand,North Dakota,30,B,44,56095.09,37,16010.59,6/18/22
+21,Daniel Whitaker,East Sarahchester,Texas,26,B,71,18895.99,65,3306.41,12/22/24
+42,Mario Burton,Madisonton,Utah,74,A,23,17948.46,48,5569.54,1/5/21
+41,Christian Hill,North Leahbury,Oklahoma,44,D,73,68277.54,46,50242.99,6/9/24
+57,David Nelson,Carolfurt,New York,51,A,61,9267.67,70,52221.18,10/28/22
+68,Kyle Farrell,North Monicaburgh,Nevada,77,B,63,84976.17,47,26032.39,4/17/25
+18,James Patterson,Santiagotown,New Mexico,52,D,61,41482.4,60,85576.49,7/10/21
+21,Joseph Graham,Medinaside,Maine,77,D,69,28740.85,56,62054.37,10/14/23
+47,Richard Duran,Ericfort,Connecticut,29,C,22,42716.24,29,79188.31,9/30/22
+63,Mr. Jake Miller,Erinborough,Alaska,64,A,66,51936.3,32,15291.05,4/5/25
+43,James Greene,East Deanna,Oregon,31,C,58,52358.05,29,73065.61,3/21/25
+65,John Carroll,Jeffreymouth,Ohio,32,B,29,36900.17,42,42601.38,6/12/20
+56,Ryan Webb,Kristinachester,Minnesota,68,A,60,33503.69,52,11138.82,12/2/24
+25,David Roberts,New Joshuamouth,Alaska,75,B,72,34947.38,48,44935.91,10/12/21
+72,Steven Larsen,Shannonmouth,Pennsylvania,39,A,48,37549.35,63,62574.92,10/11/24
+27,Christopher Jones,Port John,New Hampshire,67,A,29,95675.09,40,42439.78,1/24/25
+54,Brian Riggs,Wheelerstad,Kentucky,36,C,47,80870.45,29,24796.59,11/11/20
+24,Brandon Wade,Margaretton,Arizona,50,A,51,13876.31,66,72774.5,9/1/22
+18,Barry Davis,Sweeneytown,Oregon,40,C,50,44309.61,56,49947.56,7/25/23
+43,Russell Dougherty,East Jefferyberg,Florida,43,A,57,88664.9,21,12132.96,7/17/24
+43,Patrick Lane,Martinmouth,Idaho,56,C,58,28736.02,80,53588.59,9/19/21
+61,Brian Barnes,Christinatown,Texas,57,B,65,53560.72,28,45477.39,1/24/25
+38,Martin Burgess,Port Scott,Vermont,43,A,74,89969.42,41,8760.1,4/21/21
+73,Jordan Cole,Alexanderburgh,New Mexico,38,A,74,72153.99,53,35810.45,8/22/23
+73,Seth Keith,Annachester,South Dakota,49,C,61,23059.15,73,83665.11,1/24/23
+68,James Jones,Wallhaven,Texas,76,B,75,6651.12,41,17040.63,12/30/24
+64,John Davis,North Johnstad,New Mexico,74,B,21,54405.23,72,31437.87,6/17/20
+54,Ryan Duran,Dawntown,Nevada,28,A,61,48549.52,29,87620.57,8/4/23
+45,Luis Ayala,Lake Joshua,Louisiana,79,B,41,70875.8,36,13415.44,9/26/21
+50,Curtis White,Johnfurt,Maine,70,D,78,68633.86,66,90399.18,6/10/21
+76,Harry Snow,West Sara,Colorado,29,B,33,18670.63,50,78512.64,8/15/24
+61,Joseph Ward,Kellyville,Alaska,34,A,48,73195.52,71,90771,8/10/21
+62,Stanley Olsen,Hughesmouth,North Carolina,73,A,77,95284.63,65,27756.35,8/8/20
+78,Frederick Meyer,Port Karen,South Carolina,68,E,69,6468.55,25,30869.07,2/18/21
+22,Thomas Smith,Monroebury,Colorado,46,A,55,68318.39,31,23044.25,5/4/21
+34,Christopher Chandler,Fernandezborough,Oregon,65,A,25,43613.89,30,46842.47,3/26/25
+42,Johnathan Walsh,Thomasville,North Dakota,39,A,53,23732.08,64,70998.05,3/13/22
+20,Zachary Williams,Port Kellihaven,Montana,35,D,69,67361.42,23,38913.86,12/27/23
+41,Arthur Edwards,Port Sara,Nebraska,80,C,30,90500.97,57,95117.47,1/5/22
+47,Brian Smith,New Scott,New Hampshire,35,B,67,66045.78,19,6868.52,5/28/23
+42,Michael Lewis,East Laura,Florida,23,A,75,64304,72,10931.35,12/2/21
+74,Craig Porter,Shermanville,Mississippi,46,C,66,58440.49,62,64805.71,4/4/21
+74,Jimmy Oliver DVM,Lake Jennifer,Virginia,58,A,55,52845.4,34,29106.66,12/9/20
+20,Jason Sanders,Williamsview,Oregon,73,A,59,45468.97,39,38659.09,5/27/22
+57,Jeffrey Bailey,New Heather,South Carolina,53,A,34,52792.43,69,63169.82,4/21/22
+61,Scott Rodriguez,Kaylafort,Utah,52,C,40,61246.93,77,74440.14,4/22/23
+44,David Haynes,Lake Louis,Idaho,74,A,64,5098.03,41,15126.93,12/23/24
+49,Gabriel Burke,Brianfort,Michigan,43,A,35,44829.58,64,40239.72,4/3/21
+27,Cory Parker,North James,Iowa,50,B,77,24239.56,21,80855.15,1/4/22
+57,Jordan Flynn,Lake Crystal,Georgia,72,B,36,96297.5,22,18807.25,12/26/21
+42,Keith Becker,Zavalaport,Wisconsin,53,B,31,63377.75,50,4404.63,11/29/20
+68,Randall Fox,Rileymouth,Missouri,78,A,41,93612.71,59,68308.18,3/3/22
+58,Chad Novak,Destinyburgh,Colorado,70,C,58,72037.38,79,80006.77,4/6/24
+47,Peter Velazquez,Port Amanda,Arizona,45,B,29,80388.85,63,48689.71,9/10/20
+74,Thomas Warren,Anthonyton,Louisiana,31,E,41,71699.44,35,8048.96,2/2/23
+33,Robert Pena,Ramosmouth,Florida,70,C,62,40017.18,51,97745.01,3/6/25
+19,Ryan Barnett,West Stacey,Nevada,47,E,38,40556.92,42,9618.29,1/20/24
+74,Christopher Castro,Shawnside,Missouri,72,A,19,35280.32,34,43677.88,1/1/24
+59,John May,Sandovalbury,Vermont,69,C,30,90481.62,69,21396.13,10/17/21
+68,Nicholas Hall,Amandashire,Illinois,56,A,40,67038.79,55,12864.54,2/12/23
+24,Micheal Montoya,Pattersonton,Alabama,59,B,60,43974.43,68,3379.47,3/14/25
+44,Cory Wilson,Andremouth,Connecticut,35,C,32,83414.66,63,25641.49,10/19/20
+19,Kyle Trujillo,Lopezville,Tennessee,43,A,29,92280.68,43,27561.91,1/30/23
+28,Charles Jackson,Davidview,Alabama,33,B,36,31064.94,41,52205.2,4/12/25
+46,Christopher Kim,New Brandy,Minnesota,54,A,57,77696.99,26,19135.73,3/4/24
+74,James Smith,Cainville,Tennessee,33,B,20,18288.29,42,76214.63,9/14/20
+74,Ross Wilson,Zacharybury,Minnesota,19,A,74,36676.03,68,26739.42,9/28/22
+25,Daniel Clark,North Kerry,Delaware,28,B,62,42230.1,67,30688.84,6/23/21
+36,Michael Kennedy,West Markside,Michigan,44,A,48,67054.28,70,65907.69,7/19/22
+72,Paul Sandoval,Phammouth,Texas,48,C,73,10591.09,29,73354.02,10/17/20
+42,Michael Robertson,East Davidstad,Montana,72,A,70,75875.13,25,67701.31,9/2/20
+73,Don Hall,West Trevorshire,Alaska,50,B,55,44973.36,54,54458.6,4/29/23
+24,Calvin Adams,Port Courtneychester,North Carolina,63,C,25,14897.44,75,37118.54,2/3/25
+61,Jeffrey Nicholson,Williamsonhaven,Nevada,62,A,56,8929.94,30,60188.89,11/14/22
+47,Brandon Gordon,East Michaelburgh,West Virginia,20,D,30,68559.13,42,6752.45,3/14/24
+66,Ryan Rollins,South Donna,California,51,A,53,85132.94,41,3266.89,1/7/23
+40,Dakota Buckley,Jacobstown,Wyoming,43,C,45,91202.43,23,31517.2,8/4/23
+44,Chase Klein,North Melissa,Missouri,21,D,33,25967.37,49,90557.21,5/22/25
+75,Daniel Peters,Waterschester,Montana,24,A,65,19277.86,77,52788.27,5/8/22
+63,David Carlson,South Anna,Oklahoma,24,A,35,69304.86,31,97953.06,1/5/25
+47,Mr. Thomas Wells,West Emilyport,Nebraska,50,A,50,80483.13,66,23143.63,9/25/23
+25,Brandon Foster,New Annamouth,Florida,44,B,69,64010.72,43,35881.87,9/4/20
+68,Robert Johnson,East Amber,Arkansas,20,B,25,33179.16,78,18167.29,11/5/22
+24,Edward Melendez,East Curtismouth,South Dakota,51,B,20,67331.1,65,96842.54,11/20/24
+20,Michael Williams,Walkerview,Arkansas,58,C,50,82528.94,31,48134.22,6/27/24
+34,Peter Smith,Andersonland,Maine,18,C,64,59498.89,78,23534.06,6/7/20
+47,Mr. James Bishop,South Lisa,Oklahoma,47,A,31,2221.33,55,82552.12,2/11/22
+78,Michael Butler,South Kellystad,Texas,23,C,66,82632.93,45,28861.28,10/9/20
+27,Timothy Mclean,Burgesshaven,Virginia,76,A,42,93326.7,56,45994.14,5/27/23
+25,Michael Burton,Alicefort,New Mexico,42,B,25,13204.95,70,10744.81,9/22/23
+46,Jared Brown,Jessicahaven,Wisconsin,50,A,18,77931.66,46,9741.57,2/1/23
+68,Jeffery Villa,East Michelle,Alaska,61,B,80,26342.11,78,93987.56,12/8/24
+43,Gregory Blevins,Seanland,Hawaii,38,A,21,68442.59,66,42040.19,1/20/21
+40,Eric Warner,Kristinafurt,Missouri,62,A,78,55793.65,59,44097.6,1/5/25
+21,Bruce Cruz,Blakebury,Minnesota,72,C,44,80608.67,70,10006.22,12/20/22
+66,Samuel Yates,Nicolemouth,North Dakota,31,A,42,34173.68,51,21342.98,5/1/23
+30,Kristopher Holmes,West John,Wisconsin,59,A,45,81021.83,52,25215.19,12/10/23
+37,Daniel Travis,North Codyton,Arkansas,54,A,47,48616.98,21,58340.67,12/7/21
+65,Jason Wilson,North Hunter,Utah,60,C,31,54809.37,63,56005.96,8/8/23
+46,Dennis Guzman,Port Barbaramouth,New York,62,E,64,36512.74,48,16753.38,12/16/22
+50,Daniel Jacobs,Lopezville,South Dakota,69,B,29,18847.73,54,48534.14,9/11/21
+22,William Pearson PhD,Martinshire,Pennsylvania,37,B,48,24075.39,56,52831.39,4/8/23
+74,Dr. Michael Sexton MD,South Suzannebury,West Virginia,31,C,72,44525.3,74,40691.04,1/15/24
+31,Harold Mendoza,Bryantport,New Mexico,80,A,39,86985.21,21,24358,5/2/22
+51,Jared Hunter,Patriciashire,New Mexico,38,A,59,4187.09,18,34233.86,1/26/23
+41,Joseph Miller,Port Amy,Louisiana,38,C,24,61385.59,47,23961.11,12/27/21
+52,Andrew Kennedy,Carneyborough,New York,20,A,36,21705.93,26,6539.19,5/1/22
+23,Gregory Gonzalez,Martinland,New Jersey,76,A,57,53708.21,39,58898.23,8/7/22
+41,Ryan Stark,New Laura,North Carolina,42,C,42,32390.97,69,8616.92,3/24/22
+62,Frederick Gonzalez,Michaelborough,Idaho,22,A,55,21954.77,40,26902.88,12/22/24
+29,Travis Molina,Jerryfurt,New Jersey,36,E,56,34861.89,31,71267.58,2/15/24
+37,Dustin Davenport,Robertstad,Maryland,73,A,62,81664.08,29,50982.18,4/6/24
+61,John Hunter,North Jeffreybury,Florida,37,D,44,66616.79,44,48690.56,7/10/20
+74,Jeffery Hartman,Andersonfurt,Florida,56,C,45,77314.1,63,20540.23,8/31/23
+20,Edwin Brewer,Caldwellchester,Texas,24,A,74,68708.9,64,32504.84,7/23/21
+47,Eric Cummings,Michellefort,Wyoming,58,B,76,85190.19,22,6357.99,12/6/23
+53,Chris Sellers,South Justin,Minnesota,68,B,31,53828.3,28,65901.85,12/16/21
+28,Christopher Peterson,New Gary,New York,69,E,33,42515.31,64,34272.75,3/8/21
+31,Ryan Anderson,Lake Jenniferchester,Washington,76,B,54,32859.97,75,61494.96,9/13/23
+36,Jason Jackson,Klineland,Mississippi,33,A,44,81383.81,71,71770.41,2/11/21
+19,Jon Hart,Garciaberg,Connecticut,79,D,42,92960.54,20,54763.54,1/26/22
+26,John Hopkins,New Mark,Rhode Island,26,C,35,55794.79,34,1539.53,12/4/23
+71,Christian Gibson,South Nicoleview,Pennsylvania,65,A,71,32657.95,23,61874.34,8/7/24
+23,Jonathan Small,Port Michael,Tennessee,38,B,74,8826.28,40,31612.81,12/14/20
+18,Alexander Harrison,Bobbytown,Illinois,61,A,29,92957.78,74,38527.62,8/7/24
+27,Wyatt Hess,Lake Sandy,Oklahoma,36,A,73,17789.62,49,4459.37,7/18/23
+39,Sean Mcgrath,New Taylorfurt,Colorado,26,A,36,17718.85,23,41141.66,11/21/24
+51,Frank Thompson DDS,East Kimstad,Virginia,76,A,79,89789.93,61,51329.79,9/12/24
+23,Anthony Figueroa,West Briannafort,Kentucky,26,E,71,36296.67,42,90193.76,8/16/22
+69,Kevin Evans,Salazarland,South Carolina,51,A,64,80086.79,18,90222.38,8/7/21
+29,Thomas Ryan,West Jackson,Maine,36,A,69,69331.98,78,39060.15,11/18/24
+61,John Moore,East Emilyton,Connecticut,32,E,19,8400.36,27,54832.04,8/14/21
+60,Christopher Tapia,Port Michael,Connecticut,57,C,59,37393.35,52,51306.98,5/21/24
+62,David Johnson,Lake Rachelchester,New Hampshire,40,B,23,29476.74,50,44958.02,5/31/25
+48,Benjamin Ruiz,North Anitabury,Connecticut,46,D,40,43567.7,78,32388.34,5/24/21
+56,David Parker,East Sarah,West Virginia,65,C,21,90033.41,19,21616.74,4/30/25
+50,William Whitaker,East Garyville,Nebraska,44,A,55,33137.59,37,62693.02,2/18/23
+44,Brandon Wallace,Brandihaven,Montana,55,A,25,62036.17,78,87484.31,2/19/22
+19,Luis Kim,North Douglas,Alabama,77,C,78,25741.85,56,66190.26,4/29/25
+18,Keith Peterson,Annettefurt,Mississippi,49,C,24,63227.7,37,40265.99,5/27/22
+33,Jacob Beck,East Alexismouth,Colorado,48,D,21,27439.19,32,76053.08,10/9/20
+24,Nicholas Evans,Brittneyside,Indiana,32,A,28,31130.38,20,83301.14,3/20/21
+69,Bryan Ortega,Port David,Virginia,25,B,63,38028.73,45,45667.75,12/17/20
+76,Steven Brown,Holmesbury,Indiana,77,A,44,23824.54,33,62471.45,3/16/22
+23,William King,Jacksonfurt,Wyoming,71,D,74,10250.86,54,48606.62,4/27/24
+42,Joshua Anderson,Gutierrezfort,North Dakota,60,B,78,64985.63,25,89001.57,2/11/22
+75,Steven Lewis,Lisaton,Oregon,57,A,22,9024.2,35,36731.85,4/5/22
+29,Johnny Rose,New Cassidymouth,Iowa,71,A,35,62247.28,52,66833.37,1/12/22
+32,Dr. Vincent Paul,Tommyberg,Georgia,70,D,69,38362.72,76,1743.12,9/8/22
+43,Benjamin Fowler,West David,Mississippi,42,E,48,91236.72,32,54435.42,2/27/25
+44,Justin Fernandez,Lake Kimberly,Nevada,68,B,79,12309.14,35,42642.65,12/25/22
+44,David Velasquez,North Steven,Oregon,68,A,56,24965.5,72,52326,1/17/22
+57,Michael Kerr,Marybury,Indiana,30,B,20,39486.08,54,88379.27,3/30/23
+62,Jordan Campbell,Melissaside,Indiana,28,A,46,29555.8,38,3641.84,3/15/21
+75,Timothy Bush,Jefferyton,Wyoming,28,B,54,47062.74,24,14580.2,1/6/22
+23,Justin Horton,Lake Lisa,New Jersey,31,A,66,77494.88,27,88439.34,7/17/22
+39,Henry Roberson,West Kristen,Hawaii,35,B,66,46217.09,23,38193.51,7/29/21
+28,Brian Sandoval,North Brandiview,New York,24,C,19,62858.18,43,89539.28,5/9/23
+35,Kevin Sanchez,Danielville,Alabama,76,A,78,52805.37,69,87806.63,8/4/23
+25,Eric Meyer,Andreburgh,Florida,69,B,57,50524.34,55,3783.88,9/29/22
+65,Marcus Soto,Waltersside,Ohio,54,A,61,11672.22,73,68816.59,3/30/25
+77,Timothy Hawkins,Port Tina,Maine,36,B,74,36968.53,62,31384.99,1/9/21
+19,Scott Gonzalez,Conniefurt,Texas,24,B,75,27486.46,18,85615.69,3/21/22
+50,Stephen Michael,Brooksstad,Iowa,39,A,39,74159.77,61,90617.79,7/11/20
+70,Timothy Wood,Valdezville,Virginia,53,D,37,26999.12,28,15157.3,8/17/22
+29,Michael Andrews,West Arthur,Virginia,31,A,54,67807.99,78,45716.56,9/4/24
+73,Gregory Woods,Brownstad,New Jersey,78,A,19,99302.66,43,48266.28,7/12/22
+42,Jesse Nelson,West Michael,New York,51,A,37,59291.88,60,65700.48,7/5/20
+77,Curtis Fletcher,New Heather,Oregon,29,B,31,82288.1,38,54308.47,9/12/23
+53,Walter Smith,North Joeberg,Arkansas,56,C,18,62811.96,29,76898.34,3/12/21
+31,Mark Donovan,Tamarafort,Texas,76,A,31,50830.96,72,89829.71,10/28/20
+59,Craig Scott,South Christyburgh,Maryland,29,B,42,2125.42,50,40814.29,1/10/21
+69,Joseph Tucker,Lake Jeremiahbury,Minnesota,46,B,23,28293.81,49,9242.71,6/3/24
+19,Philip Harris,Montgomerymouth,Indiana,39,D,45,94975.03,41,22942.3,1/30/23
+51,Raymond Lewis,Brianbury,Indiana,49,A,69,26398.67,50,8584.4,11/1/21
+80,Robert Gilbert,West Matthewton,Arizona,77,B,48,21838.99,24,28410.39,7/11/20
+22,Andrew Obrien,Juantown,Texas,67,C,68,93897.39,45,21972.71,8/1/24
+75,Eric Herring,Hoodland,Michigan,68,D,22,21810.32,36,7273.36,4/14/25
+60,Jonathan Holt,Elizabethshire,Arizona,52,A,70,61495.32,60,57497.79,8/18/20
+45,Michael Manning,Port Katherine,Georgia,31,A,58,14704,27,25855.02,2/5/23
+18,Clayton Fields,Mooreberg,Utah,20,A,60,72695.07,44,65113.81,7/22/24
+28,Troy Park,North Kimberlyberg,Hawaii,34,A,18,48886.67,76,6578.68,10/8/22
+72,Joseph Moreno,Parkerhaven,Ohio,49,C,32,3821.51,60,51606.83,11/17/23
+33,John Bennett,West Dennis,Pennsylvania,20,A,65,15880.96,70,25224.52,4/12/25
+74,Juan Klein,Ericburgh,Louisiana,47,A,65,49983.82,58,46878.78,6/2/25
+58,James Moss,Jamesborough,Georgia,30,B,52,31354.95,36,53992.51,4/20/24
+53,Todd Ortiz,West Carol,Florida,72,A,22,42313.98,65,41902.97,11/17/22
+55,Phillip Leblanc,Larsonland,Alaska,54,A,42,41820.72,24,9877.14,1/24/25
+39,Robert Murray,Lake Andrea,Texas,32,A,37,47839.08,57,65036.06,6/20/22
+23,Melvin Daniels,Burkefort,New York,33,C,48,29600.8,79,51008.6,3/12/21
+37,Charles Wells,Port Mark,Kansas,70,A,65,37174.61,80,76129.99,12/27/21
+34,Aaron Waller,Tiffanyport,Missouri,67,A,73,60501.97,55,96889.95,11/29/24
+29,David Wright,Whitneychester,Kentucky,78,B,43,7865.71,29,44448.44,5/4/22
+67,Christopher Montgomery,Lake Nicoleland,Maine,52,B,46,21696.32,44,5220.92,4/8/24
+36,James Davis,Susantown,Louisiana,27,B,30,63014.64,19,79139.94,5/10/21
+29,Gregory Lee,Port Loriview,Pennsylvania,69,B,69,76324.87,57,54483.59,1/31/25
+71,Andrew Bailey,Penafort,Virginia,32,A,62,18898.47,29,40039.47,10/15/23
+57,Alexander Le,East Patricia,Virginia,55,D,35,63701.8,61,54171.05,6/5/20
+73,Jeffrey Richardson,North Ashley,Arizona,35,C,25,4643.99,53,88685.48,7/21/22
+59,Michael Thompson,East Leslie,Vermont,59,A,58,79065.02,19,35575.7,6/20/24
+51,George Boyd,North Phillip,Maine,25,B,74,88196.37,60,49103.85,7/24/23
+60,Gerald Ward,Scottfurt,Missouri,33,A,61,1709.52,24,58022.1,5/2/21
+18,Christopher Jones,New Ryanberg,Virginia,23,D,62,11124.57,49,54369.63,11/8/22
+44,Eric Wilson,Ramosstad,Texas,48,A,26,67458.91,43,82140.51,9/4/20
+58,James Torres,Lake Aaron,Alaska,44,B,25,38901.5,80,86193.97,7/25/20
+33,Tony Jones,Port Danielleborough,Connecticut,46,A,61,7167.19,25,70320.71,4/8/25
+31,Samuel Miranda,Sarahfort,Michigan,34,A,77,60731.86,76,14129.67,3/27/21
+41,John Smith,Anthonyfurt,South Dakota,55,B,21,79919.24,71,27538.15,9/2/22
+45,Charles Love,South Sarahstad,Virginia,37,A,29,36974.41,29,23876.57,8/13/24
+36,William Parsons,Reynoldsstad,Arkansas,69,B,75,67299.14,60,22432.37,2/6/25
+42,Russell Smith,North Calvin,West Virginia,53,C,21,88437.17,48,1108.92,12/17/24
+25,Joshua Fletcher,Jenniferborough,Florida,33,A,31,55500.13,33,50425.28,1/30/22
+78,Derek Mcconnell,Lake Edward,Alaska,24,A,44,5524.64,27,63054,1/1/21
+21,Kevin Allen,North Meagan,Idaho,53,B,49,17251.09,32,96642.33,9/2/22
+65,Chad Ryan,East Benjaminfurt,Texas,36,B,18,87591.8,19,92114.7,4/9/21
+54,Ian Frank,West Kiara,South Carolina,58,A,27,64595.83,63,53208.04,4/17/22
+80,Alex Moore,New Danielle,Nebraska,19,D,22,65155.61,71,82035.97,11/23/24
+34,Timothy Wilson,West Leah,Nebraska,27,A,56,69263.68,18,21036.25,2/12/25
+60,David Hart,Aaronshire,Utah,67,B,28,26623.63,66,59018.36,10/26/21
+51,Jesse Pope,North Danny,Wisconsin,56,A,72,23714.56,20,7127.96,1/4/22
+73,Anthony Miller,Lake Lisaland,Idaho,73,B,70,66767.41,69,76028.72,10/27/22
+32,Eric Macias,East Steveburgh,California,70,A,31,65550.84,35,86667.99,9/8/21
+40,Casey Norton,Williamchester,Idaho,70,C,76,82388.58,80,46162.51,11/9/23
+34,Michael Campbell,North Jennifertown,Oregon,59,A,58,86692.43,67,51863.41,10/23/20
+44,Daniel Campos,North Rebeccashire,Louisiana,75,B,39,74317.56,51,36726.15,7/3/21
+36,Mitchell Escobar,Lopezfurt,Utah,19,A,46,2284.14,74,25422.2,9/21/23
+64,Anthony Murray,Jameston,Vermont,71,A,20,40436.17,67,56990.59,2/7/24
+18,Roy Prince,Port Jamesmouth,Maine,53,A,64,14511.89,22,78055.99,7/18/23
+74,Craig Patel,Perezburgh,Connecticut,59,C,47,76795.66,73,59121.5,5/28/21
+53,John Crawford,North Joshua,Georgia,44,A,52,90765.13,50,65711.93,4/21/24
+56,Sean Floyd,Gibbsland,Iowa,51,C,29,70024.18,48,48190.25,5/22/24
+79,Christopher Collins,Connerside,New Hampshire,76,A,37,51981.75,69,42472.55,8/1/20
+73,Jeremy Maxwell,Lake Lawrence,Indiana,63,A,22,46049.96,61,81100.89,12/26/23
+75,Christopher Knox,Martinfort,Idaho,30,A,54,84835.54,59,41976.14,8/27/21
+63,Jeffery Wilson,West Andrea,Connecticut,59,D,37,51749.12,51,73219.71,11/28/21
+25,Nathaniel Jackson,Lake Jeffery,Oklahoma,19,A,28,76467.04,55,73361.29,11/2/22
+58,Thomas Wilson,Debraburgh,Indiana,63,A,73,92818.24,78,79081.2,9/20/23
+69,Samuel Wilson,New Annette,Illinois,50,C,44,30371.38,35,38352.51,6/10/20
+19,Dale Miles,Whitneyside,Illinois,71,A,78,90045.98,34,29325.63,12/21/22
+63,Timothy Stevens,Turnerstad,Oregon,20,A,53,66284.64,29,76473.07,7/21/20
+67,Ryan Davis,South Rose,New York,49,A,54,54602.04,41,61189.24,6/27/24
+52,Brian Clark,Port Amandachester,Hawaii,26,A,47,67418.32,39,13087.05,5/12/21
+79,Marc Briggs,Stevenmouth,Mississippi,49,A,56,39536.89,67,34111.3,10/3/24
+62,George Vazquez,New Shawn,Louisiana,35,A,26,64050.46,63,6320.69,1/17/21
+22,Alan Hurley,East Taylor,North Carolina,54,C,66,43021.35,45,74832.88,2/26/21
+39,Willie Lee MD,New Michael,Alabama,76,A,19,98515.57,60,99981.73,7/19/21
+29,Mr. Joseph White,Lake Kevinshire,Illinois,23,C,19,98167.64,34,20025.98,8/5/22
+20,Mark Johnson,Vasqueztown,North Dakota,57,B,67,42404.82,42,19494.29,10/11/22
+32,Michael Roman,Jamesburgh,Nevada,61,E,21,25998.86,29,9686.82,2/1/25
+24,Gary Herring,South Robertmouth,Maryland,74,A,44,24900.34,44,50086.09,11/15/21
+58,Steven Jackson,North Patrickstad,Alaska,21,C,52,27065.24,28,41734.44,4/4/23
+49,Michael Willis,Sydneystad,Massachusetts,36,A,80,95235.62,50,15686.15,3/28/24
+62,Dennis Garcia,Haleymouth,Montana,69,B,19,98796.56,61,2020.15,11/24/20
+28,Terry Smith,Smithfurt,New Jersey,41,B,40,51285.09,50,81240.81,6/1/25
+21,Anthony Munoz,East Laurahaven,New Hampshire,20,B,37,13310.85,72,90512.68,4/13/25
+46,Ryan Lucero,New Catherinebury,Tennessee,58,E,64,40796.96,76,60295.81,9/8/23
+28,Michael Schaefer,West Jonathan,Delaware,61,A,77,86478.54,27,26227.92,9/4/22
+36,Justin Lester,East Daniellestad,Arkansas,32,B,70,82695.43,46,13523.25,6/26/24
+74,Steve Robles,Lake Sarah,Kansas,67,B,76,50746.71,75,48992.28,5/15/22
+56,Christopher Miller,Walkerton,Alabama,20,B,45,88881.77,44,29986.1,10/1/21
+80,Isaac Ward,Michelebury,Tennessee,28,A,55,12760.8,39,33617.92,12/24/21
+63,Russell Robinson,Lake Brittany,Montana,31,A,76,90097.21,51,54252.52,3/5/25
+48,Gabriel Pena,West Richard,Michigan,71,A,22,81485.3,56,26641.21,7/9/23
+45,James Schneider,Michaelland,Oregon,69,C,69,99644.24,19,95599.17,7/11/21
+64,Michael Alexander,Brandonmouth,Florida,52,A,50,96460.21,47,69772.27,1/18/25
+55,Christopher Ramos,West Tara,Texas,25,B,78,25878.64,28,89319.9,5/16/22
+62,Charles Taylor,Lake William,Oregon,59,C,27,85703.97,27,50761.6,11/9/21
+76,Michael Lewis,Port Eugenemouth,North Dakota,79,A,57,97063.31,54,27461.45,1/3/21
+37,Steven Costa,North Jasonville,Texas,69,C,23,22149.5,56,38144.03,12/31/20
+24,Manuel Cobb,Elliotttown,Rhode Island,38,B,40,61408.24,38,31255.62,7/28/24
+62,Troy Wade,Curtisville,Georgia,65,A,39,9649.83,56,64296.54,10/19/20
+78,Kevin Glover,Lake Bethborough,Louisiana,38,D,58,68003.79,46,22787.65,2/9/25
+20,Derek Clark,Carterbury,Wyoming,35,A,76,89703.97,66,51918.63,11/13/24
+59,Andrew Miller,West Robert,Washington,59,A,43,47774.17,43,27916.21,6/15/20
+50,Brian English,Lake Amber,Delaware,41,A,38,50169.08,80,39430.93,6/6/23
+67,Daniel Roberson,Leonchester,Illinois,49,A,70,55696.12,28,74257.1,2/21/23
+53,Joseph Castillo,Timothyton,Washington,66,A,66,62235.84,62,97994.86,1/25/25
+61,Christian Rogers,Mckayberg,Hawaii,56,B,29,33679.45,51,52922.78,9/3/20
+78,Patrick Bailey,Jennifertown,North Dakota,56,A,52,61285.33,71,52711.41,10/4/24
+24,Patrick Jordan,Ashleymouth,Wisconsin,40,A,48,76560.24,64,84048.28,1/15/21
+42,Kenneth Alvarez,Gregorybury,New Jersey,65,A,68,23998.92,50,85734.84,12/13/23
+42,Anthony Bailey,Quinnmouth,Hawaii,62,A,79,84762.53,28,22830.43,10/7/21
+41,George Ward,New Aaronbury,South Dakota,26,A,71,7172.85,52,31298.57,2/7/25
+20,Mark Tran,Santiagomouth,Delaware,27,C,50,58639.03,43,9485.01,11/12/20
+28,Zachary Gonzales,Harperview,Oregon,65,A,58,6003.32,67,33269.26,2/10/22
+29,Jose Ford,North Kristopherhaven,Wisconsin,41,A,49,3918.91,29,96214.66,12/5/21
+43,Lance Thompson,Lake Andrew,Colorado,48,B,26,39096.46,50,9799.02,9/23/22
+18,Walter James,Robertsonborough,Nebraska,42,B,44,69512.88,65,48316.45,12/23/21
+63,Adrian Fisher,North Edwardport,Alabama,24,B,61,56992.11,67,61910.72,8/7/23
+72,Ryan Guerrero,West Kevin,Ohio,22,C,22,17945.08,71,44691.56,5/6/25
+50,Edward Martin,Port Paulstad,Kentucky,39,E,33,92659.77,32,85589.54,4/20/25
+79,Jason Bush,Lake Theresa,Connecticut,28,A,26,4721.51,71,85194.57,7/3/21
+56,Mark George,Michaelhaven,Mississippi,51,A,38,53198.93,30,29875.32,6/1/24
+26,Austin Gibson,North Darleneshire,Kansas,56,A,71,35347.43,36,22585.86,7/29/23
+51,Mark Allen,Royfort,South Dakota,29,D,71,37615.61,44,21858.65,8/24/24
+49,Philip Phillips,Port Scott,Kansas,71,A,24,24049.04,75,78822.86,12/15/23
+34,Mason Rodriguez,Howardland,Alaska,38,A,46,92538.94,71,2999.34,3/14/23
+51,Michael Patrick,Wilsonchester,Georgia,48,A,28,36788.76,28,99991.56,9/27/20
+69,Adrian Solis,West Kellyfort,Oregon,33,C,42,13434.1,75,51843.08,3/29/25
+31,Willie Vasquez,New Vickie,Utah,53,D,79,51791.98,41,94624.66,5/21/22
+71,Tanner Mata,Port Melissa,New Mexico,80,A,50,72910.86,55,53902,1/12/22
+64,Chad Bryant,New Amandahaven,South Dakota,63,C,56,34985.29,29,65024.34,4/13/24
+66,Larry Mitchell,North Samantha,Oregon,29,B,32,81235.42,46,54656.51,7/18/22
+29,Richard Wiley,East Anna,Florida,30,C,52,14394.89,54,94253.77,3/12/22
+57,Nathan Barber,Villanuevaland,Maryland,66,A,67,15877.92,39,98318.5,4/2/21
+31,Nicholas Brown,Matthewshaven,Minnesota,79,A,70,49856.77,52,20781.54,12/20/24
+32,Benjamin Ingram,Wrightmouth,Oklahoma,39,A,23,10098.53,38,18120.46,7/9/21
+53,Vincent Singh,Jacobtown,Wyoming,45,E,68,53597.65,69,48140.22,8/13/20
+50,Charles Davis,Lake Richardside,Arizona,51,B,35,71534.12,46,69002.97,6/22/20
+59,Christopher Jacobs,Alexandriaton,Arizona,47,B,45,83943.16,46,82378.55,6/15/21
+18,Mark Lewis Jr.,Thompsonberg,Missouri,18,B,45,36965.69,47,50413.15,6/2/24
+58,Joseph Flores,Jessicaburgh,North Dakota,30,A,25,32420.15,68,95715.3,4/22/22
+23,Timothy Lynch,New Laura,Maine,38,A,63,24500.68,69,44818.71,9/20/24
+66,Anthony Gilbert,Sherryberg,Colorado,75,B,65,61579.63,21,72882.94,8/9/24
+67,Scott Farrell,West Angelamouth,New York,55,D,57,47588.17,34,55507.84,2/16/23
+35,Patrick Miller,Emilyland,Alabama,51,B,28,43173.08,51,88480.51,8/18/24
+77,Charles Kerr,West Anthonyberg,Illinois,60,B,61,55115.39,71,17901.17,4/11/23
+20,Raymond Santiago,North Christopher,West Virginia,35,A,73,34499.51,51,14588.83,7/5/20
+45,Vincent Kent,Danielton,Florida,41,A,34,59154.61,53,14924.83,5/31/21
+45,Joe Serrano,Mikeland,Nevada,69,C,61,10771.25,32,46797.85,7/23/21
+18,Stephen Bates,Lake Thomas,Wyoming,41,D,39,80419.56,45,64535.83,1/10/21
+20,Michael Hudson,Carolineside,Illinois,80,A,58,20608.03,29,1719.47,10/10/24
+75,James Foster,West Joshua,Alabama,68,A,48,17401.88,31,86433.54,10/4/24
+79,Christopher Shannon,Jenniferchester,Missouri,71,A,51,32169.9,23,52128.14,12/17/20
+52,James Burnett,Adrianbury,Arkansas,55,B,68,33189.63,34,38609.65,11/4/24
+23,Andrew Wright,East Patricia,Utah,79,A,61,74517.22,33,15811.63,1/1/22
+80,Benjamin Evans,Carterchester,Oklahoma,78,C,44,37324.87,73,67469.24,3/8/24
+35,Samuel Martinez,Elizabethport,Georgia,54,A,18,57311.46,59,9031.66,2/23/21
+75,Craig Ramirez,East Craigburgh,Alabama,77,C,48,90327.39,21,40005.04,6/28/20
+46,Daniel Shaw,East Carriemouth,Alaska,78,C,50,4554.49,79,92115.4,8/26/24
+19,Terrence Gaines,North Stephanieburgh,Wyoming,72,A,60,70381.75,32,35382.66,10/10/22
+53,Jeffery Holmes,Martineztown,Connecticut,22,A,65,9161.59,50,4327.36,4/15/23
+59,Gregory Gilbert,Jeffreyfort,Mississippi,73,B,48,79452.66,65,85861.83,6/24/24
+39,Robert Johnson,West Erica,Virginia,28,D,66,57057.3,44,96241.62,1/6/23
+54,George Berg,Marissastad,California,41,C,54,49142.04,59,68116.69,3/24/25
+52,Ian Fuentes,West Sarahberg,Minnesota,49,B,20,25857.66,34,23111.79,12/18/21
+67,Jeffrey Lutz,Rebeccastad,Delaware,74,A,64,27670.26,33,90959.06,10/14/20
+65,Richard Hogan,Port Justin,New York,32,B,31,61407,31,85770.51,11/9/20
+74,Roberto Robles,Port Brent,West Virginia,33,C,22,86254.8,52,31332.7,6/21/21
+32,Justin Gordon,Port Robert,California,44,A,21,47042.53,30,42800.46,2/18/23
+52,William Lee,East Williammouth,Iowa,65,C,75,75369.37,61,71241.7,3/21/25
+74,Samuel Hunt,Glennchester,New Mexico,67,A,50,81089.15,41,54315.45,1/7/24
+35,Edward Johnston,Christopherville,Connecticut,69,C,70,18347.52,53,68469.63,10/8/23
+66,Jerome Roberts,Shelbyburgh,Missouri,32,A,73,34302.47,60,53244.6,9/19/22
+48,Daniel Wilson,East Kayla,Idaho,58,A,32,43027.18,28,11500.1,3/8/24
+36,Chad Nichols,Boothview,Pennsylvania,26,A,34,56390.34,38,51717.45,12/9/22
+44,Thomas Moore,New Jennifer,Delaware,79,B,69,6699.42,60,86271.31,11/10/23
+64,Charles Pearson,Port Kimberly,California,80,A,70,49763.13,66,49289.42,1/2/23
+70,David Wood,Salasborough,Nebraska,73,B,60,65664.34,29,30929.74,4/29/21
+41,Miguel Park,Port Brettfort,Hawaii,40,B,48,12581.39,51,98423.21,9/28/21
+79,Michael Wall DDS,Forbeston,Vermont,61,C,59,11981.68,72,87219.55,5/28/24
+27,Kevin Avila,South Jon,New Jersey,74,A,22,33034.73,43,20401.04,1/11/25
+22,Bryan Wagner,Murillotown,New Hampshire,61,A,59,3686.84,75,54060.56,1/16/21
+72,Brandon Davis,East Daniel,Vermont,40,B,72,1383.58,32,52155.71,10/7/24
+59,Matthew Ramos,Stephensside,Virginia,64,A,31,16287.06,50,32363.02,7/30/23
+67,Jacob Williams,North Richardhaven,Alaska,73,D,24,47227.48,47,61512.04,10/10/22
+44,Jonathan Miller,Tracychester,Iowa,52,A,66,15671.6,41,63696.55,2/10/21
+52,Derek Wright,Benderstad,Kentucky,40,B,62,6747.89,67,69097.4,5/28/25
+73,Larry White,Jenniferfurt,Wisconsin,41,A,73,80159.93,21,19956.41,6/12/20
+53,Todd Thompson,West Lindsaychester,New Hampshire,60,A,60,85752.58,61,72380.03,5/28/25
+78,James Morrison,Davidside,South Dakota,42,A,78,33475.64,51,26987.73,4/26/23
+52,Robert Bennett,Port Aaron,Colorado,21,A,74,40152.1,33,81429.79,5/17/24
+73,Daniel Cain,Simonbury,Minnesota,78,A,65,26180.49,59,38122,10/23/20
+40,Vernon Jarvis,West Anthonymouth,Massachusetts,56,B,67,11070.02,48,63141.12,4/17/25
+52,Michael Cooper,West Josephhaven,Pennsylvania,54,B,70,20836.61,79,78806.03,4/1/21
+28,Edward Glover,New Meghantown,Indiana,41,A,69,53710.92,59,97877.43,5/21/24
+47,Victor Keith,South Annaburgh,Minnesota,33,A,27,21632.99,30,20704.93,6/6/20
+68,John Carter,Tristanside,Mississippi,38,A,60,78202.25,77,93334.18,4/10/23
+77,Louis Freeman,New Cheryl,Nebraska,67,D,64,43975.14,67,95139.85,11/21/24
+18,Billy Haney,Port Angela,Mississippi,28,D,62,82435.54,77,34185.34,8/24/21
+64,Kelly Harper,Smithbury,Minnesota,64,A,77,19468.01,68,52856.38,11/11/23
+76,Garrett Fox,Watkinsberg,New Mexico,24,D,61,68564.04,20,80613.67,4/13/24
+25,Joseph Yates,Hughesberg,Colorado,75,E,33,20384.26,76,35671.87,12/5/21
+63,Joseph Curry,West Ericport,South Carolina,71,C,26,87989.19,63,90437.37,11/10/22
+68,Edward Carter,Lake Lisahaven,Rhode Island,33,C,67,35270.33,32,23914.89,4/7/25
+65,Johnny Matthews,Lake Lauren,Connecticut,60,A,40,14258.07,68,16752.65,5/12/21
+40,Richard Robertson,Lake Dalton,Delaware,19,C,42,89690.49,46,80467.97,1/18/25
+22,Vincent Harris,Gutierrezland,Oregon,64,B,57,87330.46,34,90884.58,2/12/22
+50,Ronald Fuller,New Renee,Georgia,62,B,24,54786.26,70,68921.01,6/17/20
+48,Alexander Herman,East Anamouth,West Virginia,30,C,55,17561.59,33,69420.3,1/19/23
+71,Nicholas Greene,South Toddshire,Hawaii,73,C,40,66012.12,55,69459.78,8/8/20
+57,Bradley Beck,Port Richard,Delaware,78,A,54,12584.08,39,97272.8,9/13/21
+48,Ian Ortiz,East Marcusport,Colorado,72,B,49,3780.2,65,81599.75,3/25/25
+47,Brian Jones,Teresabury,Tennessee,52,B,57,10377.47,37,44831.47,12/19/23
+27,James Herrera,East Tamara,Montana,70,C,69,53558.05,37,30804.46,10/26/20
+27,Kyle Frye,Fryberg,Montana,58,B,27,15847.44,21,36612.9,11/16/20
+37,Evan Huff,Lake Jennifermouth,Michigan,23,D,64,65570.72,37,33481.75,3/4/21
+32,Luis Rice,Johnsonburgh,Missouri,52,A,25,84666.97,27,34664.18,7/29/23
+71,Joseph Wilson,West Vincentmouth,West Virginia,31,A,62,95644.94,57,62203.76,6/1/24
+65,Steve Young,Port David,Massachusetts,24,A,25,44584.38,80,91669.87,5/1/25
+64,Corey Buck,Port Carl,Alaska,57,B,39,97716.65,40,44823.8,3/12/23
+65,Cole Lewis,Cheyennemouth,Colorado,50,B,72,40894.12,40,93834.69,8/22/23
+74,Joshua Berry,Lake Jasontown,South Dakota,51,A,71,4077.36,76,60180.22,9/3/21
+72,Kelly Guerrero,East Kariville,Utah,25,D,46,52573.83,43,13162.33,10/11/22
+55,Micheal Bailey MD,Christopherchester,Maine,50,A,68,77547.67,59,95740.9,3/11/23
+20,Greg Reyes,Jamesborough,Illinois,69,B,36,90665.03,26,68813.53,6/20/21
+52,Bryan Trevino,South David,Tennessee,52,A,52,48919.21,77,37585,4/13/24
+38,James Bradley,Victorbury,Maryland,23,B,53,50631.95,71,71421.48,5/12/24
+31,Christopher Matthews,New Anne,Iowa,69,B,45,66424.43,64,82452.12,10/29/24
+49,Kevin Villarreal,New Molly,Minnesota,66,B,31,75508.25,25,35186.18,5/19/21
+71,Devin Norton,Jamesfort,Texas,48,A,24,22394.76,76,9287.5,4/16/22
+28,Brian Frederick,Port David,Nevada,45,A,80,23885.83,45,55628.84,3/9/21
+78,Erik Turner,Port Lisastad,Rhode Island,43,D,77,71509.65,24,31834.42,3/25/23
+66,Derrick Hancock,West David,Iowa,28,A,34,26314.02,64,27241.96,9/15/20
+71,John Pratt,Armstrongstad,North Dakota,39,A,42,26821.47,43,69128.42,4/22/21
+50,Joshua Bond,Jonathanborough,Delaware,28,A,49,71956.62,58,93371.75,12/8/24
+68,Peter Stephens,Suttonberg,Nevada,53,A,26,48376.54,37,57031.67,11/25/22
+36,Ronald Walker,New David,Texas,22,B,52,30848.96,74,94674.24,10/20/20
+60,Joseph Bender,Vickieberg,Wyoming,78,D,50,89797.44,45,62800.12,8/25/24
+46,Gary Martin,Charlestown,Massachusetts,32,B,68,65224.88,29,99551.27,5/18/23
+22,Christopher Baxter,Turnertown,Utah,19,B,64,64903.95,32,70835.68,9/10/24
+69,Jeremy Valentine,Ibarraburgh,New Hampshire,38,A,38,54057.23,74,39639.74,7/12/23
+35,Alexander Jimenez,Port Shannon,Georgia,34,C,63,77384.47,37,11855.89,5/11/22
+36,Justin Smith,South Brittanyport,Louisiana,64,D,48,15575.5,40,84886.39,9/7/21
+53,Christopher Escobar,West Jaredburgh,Hawaii,62,D,38,2774.29,38,99557.37,6/19/24
+68,Adam Burns,East Patricia,North Dakota,68,D,36,14195.12,49,87830.71,12/15/21
+66,John Crane,Reginaldport,California,50,A,37,87996.01,44,51867.35,6/14/24
+58,Jared Huffman,Port Derekville,New Hampshire,36,E,48,38262.55,46,65295.31,9/26/20
+65,Caleb Vasquez,Anthonyshire,Nevada,18,C,46,51726.91,64,84273.58,2/6/24
+45,Steven Wallace,Ortegaburgh,Arkansas,48,C,35,54723.59,19,74532.46,12/19/23
+78,Daniel Fleming,Sheriburgh,Idaho,32,A,65,97137.38,56,78167.64,1/14/22
+65,Joshua Chandler,Karinaport,Utah,40,A,62,17061.36,19,29666.13,3/21/22
+36,Harold Collins,Fosterfort,Washington,74,D,55,94763.04,47,87582.05,7/7/22
+19,Brendan Montoya,South Whitney,New Hampshire,56,A,73,52064.27,61,41563.05,3/27/23
+63,Louis Armstrong,Zacharyside,Oregon,61,B,49,47105.21,56,68291.79,10/13/23
+26,Richard Nguyen,Christineton,Florida,78,C,42,14561.14,51,29194.42,1/15/24
+45,Bryan Morris,Candiceburgh,Kentucky,50,B,49,80738.55,18,54909.84,4/12/25
+28,Douglas Elliott,New Susanview,Wyoming,19,A,78,42825.56,25,45835.29,9/2/20
+40,Victor Rivera,North Janicefurt,Vermont,26,A,38,53628.45,58,57292.47,6/17/24
+39,Jeremy Hodges,West Gregory,Oregon,38,B,54,19945.51,40,57189.52,3/5/21
+23,George Miller,Farrellstad,New Hampshire,18,C,72,49346.46,31,32243.85,10/25/23
+34,Edward Pruitt,East Jessica,Mississippi,20,A,33,13796.95,31,26327.94,4/1/24
+26,Xavier Perry,Manuelmouth,Kansas,33,E,27,78807.1,39,4795.88,4/17/21
+72,Mike Barnes,Burnsland,Iowa,45,A,34,29925.46,70,56177.17,11/21/23
+63,David Hicks,Andreahaven,Arkansas,38,A,60,39710.77,35,44171.19,1/28/25
+65,Gary Lee,West Linda,Virginia,66,C,55,94435.26,28,76818.31,9/10/20
+24,Michael Goodman,Johnstonfort,Massachusetts,75,D,79,58415.7,59,2478.56,5/13/25
+33,Ruben York,Millerhaven,Washington,35,C,42,11531.14,19,17832.78,7/11/24
+39,Dennis Taylor,Katieport,Virginia,53,A,79,72032.43,56,69012.35,5/21/21
+74,Jacob Perez,Port Jamiemouth,New Hampshire,45,D,67,43420.19,69,61893.89,4/16/21
+58,Sergio Franklin,Margaretshire,Wyoming,63,B,44,54966.63,24,84436.65,1/15/23
+54,Darrell Woods,Brianborough,Louisiana,71,C,58,13520.83,69,2167.46,2/22/22
+63,Michael Barnes,West Chrisborough,Utah,51,C,75,62266.52,33,77276.06,7/14/24
+20,Erik Prince,Victoriaville,North Carolina,64,C,39,99581.27,66,13587.33,10/29/21
+42,Keith Lynch,Lewisside,New Jersey,53,C,45,77234.8,32,65110.89,6/1/21
+52,Ricardo Edwards,South Cristinafurt,Kansas,54,D,32,86794.29,53,5398.8,5/1/21
+24,John White,Longmouth,California,58,D,77,22280.49,59,31984.57,7/25/20
+62,Jeffrey Williams,Lake Sarahview,Kansas,34,C,27,42892.51,20,54143.63,11/27/23
+33,Christopher Elliott Jr.,Gregoryshire,Missouri,78,A,56,1876.41,39,81648.32,7/22/24
+56,Guy Thompson,Donnachester,Delaware,54,D,26,90975.26,69,44535.71,9/1/24
+30,James Stewart,Mejiaberg,Nevada,51,E,67,56878.91,47,68721.97,1/23/23
+34,Ian Yates DDS,South Karen,Texas,23,A,43,68072.11,34,97818.02,6/29/21
+31,Joel Martinez,Port Troy,Oklahoma,74,A,62,56955.79,26,52594.21,3/1/21
+76,Christopher Lloyd,North Zacharyport,Mississippi,80,C,28,94198.28,51,91124.39,6/18/21
+34,Nicholas Ray,Lake Angelstad,California,43,D,30,87606.95,54,27288.13,11/29/23
+28,Jonathan Valencia,Gonzalezport,Michigan,69,E,48,29493.47,68,22740.5,10/18/20
+76,Stephen Perez MD,Brianport,Nevada,45,D,63,23202.02,53,50523.67,7/14/21
+53,Mr. Michael Rocha,West Madelinetown,Wisconsin,40,C,73,98152.98,41,68929.91,8/1/24
+57,Chad Warner,Hernandezland,Nevada,79,A,55,42583.21,23,74496.57,1/31/24
+27,Thomas Mann,Port Alyssamouth,Missouri,60,C,47,57470.67,23,12375.65,3/23/24
+56,Nicholas Schaefer,Port Sharonfort,Tennessee,47,B,26,94656.73,51,96344.12,2/11/22
+29,Matthew Clarke,Allenberg,Ohio,42,B,19,38129.88,59,97129.4,2/14/24
+53,Timothy Bullock,Port Ryanfort,Arizona,46,C,65,82176.02,59,53850.26,6/14/23
+76,James Rubio,Ericville,Michigan,79,A,68,74486.21,41,79707.63,5/22/24
+74,Michael Henry,North Christopherchester,Arizona,62,A,47,5918.81,24,46767.73,2/6/24
+70,Joseph Garcia,Port Kathleentown,Connecticut,72,D,60,36535.43,73,43218.6,10/31/24
+66,Brendan Smith,Port Markton,Illinois,68,B,19,50079.55,54,63331.48,11/6/23
+58,Gregory James,Russellmouth,Delaware,72,A,67,50667.61,50,58157.58,4/6/24
+63,Thomas Chandler,Lake Colleen,Florida,62,A,51,47758.18,48,86087.06,11/17/21
+28,John Dougherty,Lake Michaelbury,Iowa,29,E,65,76054.83,33,36602.74,11/23/24
+25,Dennis Mack,East Carolynmouth,Nebraska,76,A,51,76706.69,39,92308.57,10/9/20
+68,Jay Henderson,North Adamhaven,Montana,72,E,38,37890.56,55,43180.48,7/6/22
+47,Julian Raymond,Rickyborough,Iowa,65,C,73,83022.87,49,57689.83,8/29/20
+74,Christopher Zimmerman,Juliemouth,Montana,31,D,77,89493.85,54,89811.37,5/7/24
+69,Michael Prince,Melissaport,Oklahoma,74,A,51,74647.54,77,71176.86,8/14/24
+30,Wyatt Freeman,Monicashire,Delaware,38,C,21,80602.37,71,33078.03,5/25/25
+63,Dylan Campbell,Hayestown,Alaska,44,E,53,15955.27,55,50906.08,12/17/24
+18,Dustin Roberts,Keithmouth,West Virginia,78,A,69,99497.72,66,46170.71,2/6/22
+60,Robert Howell,Maddentown,Pennsylvania,62,B,29,44162.96,76,35745.21,12/20/23
+74,Richard Pena,Patriciafurt,Montana,74,E,70,78632.42,50,10814.54,2/5/22
+30,Eric Ruiz,West Tracyton,Massachusetts,23,A,37,23392.01,50,7154.42,12/26/21
+26,Phillip Hawkins,South Seanstad,New Jersey,40,D,51,13388.98,78,47037.43,3/7/22
+34,Anthony Mcintosh,Port Earl,Georgia,45,C,53,78635.1,23,60758.4,12/8/21
+23,Jose Hamilton,Kirkchester,Nebraska,21,B,34,21439.95,56,35186.45,7/2/23
+72,Ryan Hansen,Thomasside,Rhode Island,42,B,65,69966.93,30,80273.02,12/13/21
+62,Jonathan Vaughn,Port Lisa,Vermont,75,E,50,8523.24,75,15222.9,6/15/24
+34,Joseph Brown,North Lisa,Washington,54,A,26,74148.72,32,41028.8,3/15/23
+25,Michael Brown,Port Chaseside,Alabama,53,A,21,78012.62,71,69652.91,11/30/21
+39,Dr. Rodney Thomas,Herreraside,Ohio,23,A,79,41046.04,44,55525.81,4/19/25
+26,Charles Price,Foxborough,New Mexico,63,D,67,55208.57,36,35019.62,12/7/21
+58,Tyler Johnson,North Marcus,Indiana,33,B,24,71632.86,69,89384.9,11/12/24
+72,Daniel Alvarado,East Mark,Colorado,25,A,28,75014.6,33,74335.4,7/25/21
+63,Kyle Carr,Eatonchester,Georgia,45,D,69,34042.3,29,22473,4/19/25
+22,Bobby Carroll,New Davidberg,Alabama,19,D,21,55076.19,76,48953.86,2/10/24
+52,Richard Copeland,South Michealchester,Indiana,34,A,68,13156.09,41,54610.4,10/17/24
+58,Scott Evans,Port Rebecca,Kansas,30,B,79,4382.29,38,81010.68,3/22/24
+20,Benjamin Gregory,South Erikville,Oklahoma,70,C,78,78459.15,68,63267.52,6/15/20
+63,Russell Williams,East Brandon,North Dakota,76,A,21,52109.8,33,81584.55,3/3/25
+54,Daniel Powell,South Tiffany,Wisconsin,63,B,51,61805.74,41,59427.64,1/30/24
+50,Ricky Carrillo,Lake Jared,Minnesota,80,A,27,32508.21,36,99404.86,3/17/23
+36,Brian Perez,Meganburgh,Arizona,49,D,24,32776.44,20,64254.73,3/21/21
+31,Luke Barrera,South John,Mississippi,73,E,55,79520.33,74,90489.6,4/12/24
+25,David Henderson,Lake Nicole,Missouri,79,B,25,51164.74,53,5939.78,9/17/22
+36,Joseph Heath,Martinezton,Texas,35,C,48,87946.76,76,98640.8,1/17/22
+45,Anthony Medina V,Erintown,New Jersey,40,A,25,63333.38,78,76066.76,5/12/21
+68,Robert Long,Kristabury,Missouri,66,B,47,70651.12,65,79996.17,5/11/21
+61,Shane Gross,Danielburgh,West Virginia,79,A,30,76393.79,21,51525.43,12/21/20
+28,Jeremy Li,Clementsberg,New Jersey,49,E,19,8241.73,78,40917.21,12/5/22
+32,Jason Martinez,Port Georgeton,New York,32,D,38,70754.85,35,34272.64,5/15/25
+60,Daniel Francis,Thompsontown,New Hampshire,46,A,60,56091.47,79,46586.8,3/4/21
+60,Brian Thompson,Morganfort,Kentucky,40,A,68,70934.97,40,51674.88,7/31/20
+28,Adam Nelson,New Jeremy,Kansas,36,C,77,63170.16,77,50617.77,11/6/22
+45,Steven Shepherd,Mendozaview,New Mexico,27,B,46,12719.33,23,12033.4,2/18/21
+41,Manuel Campbell,South Jessicahaven,Delaware,45,A,18,70576.5,77,16403.6,6/25/20
+31,Jonathan Jones,East Amandachester,Virginia,67,C,72,86033.86,52,37627.11,6/3/22
+30,Gregory Carpenter,West Kayla,Massachusetts,50,A,51,46903.05,38,99901.46,6/1/22
+45,John Cook,Joshuaport,North Carolina,71,C,70,50294.55,73,41273.03,8/17/24
+26,Michael Chapman,East Jessicaborough,Louisiana,28,B,47,37725.7,48,1817.67,5/17/25
+55,Kevin Robinson,Perezton,Oregon,53,A,67,30439.82,57,7415.58,12/2/22
+35,Steven Fuller,Robertview,Massachusetts,51,D,55,9733.26,33,56938.56,7/28/24
+77,James Phillips,Hannahbury,Wisconsin,59,A,66,34515.33,65,54198.2,9/6/24
+20,Nathaniel West,New Jesusmouth,Missouri,69,C,54,26792.79,75,90147.24,3/17/22
+45,Christopher Graham,East Melissa,Colorado,22,C,29,93808.3,79,97080.92,3/10/24
+61,Juan Nguyen,West Lindsey,California,48,D,73,17964.3,28,65807.62,9/30/20
+28,Michael Bauer,Mendozaton,Delaware,77,D,59,65082.47,62,26523.27,2/16/23
+31,Joshua Fisher,East Alexandria,Wyoming,41,A,41,52154.35,70,87614.36,8/21/21
+53,Erik Jones,Johnland,Michigan,29,B,67,83956.91,43,80877.85,1/6/22
+63,Kenneth Martinez,New Andrewport,Colorado,50,A,35,82232.46,58,79333.48,3/30/24
+76,Daniel Moore,Brownborough,Colorado,68,A,69,55001.4,39,66602.77,6/15/20
+73,Gregory Padilla,East Patrick,Oklahoma,68,C,71,36699.99,43,31780.77,1/2/25
+67,Micheal Roberson,Port Johnville,North Carolina,32,A,68,83578.5,38,2217.86,5/25/21
+34,Chris Jones,Brownport,Delaware,69,E,62,19240.36,22,72768.23,5/14/24
+38,Tony Bernard,South David,North Dakota,74,B,28,30666.65,53,31471.06,11/7/23
+56,Charles Mcdonald,Kyleport,Minnesota,52,B,51,32249.41,34,35234.74,7/8/22
+66,Philip Howell,Brittanychester,Missouri,40,A,65,42890.59,43,79662.82,9/4/20
+47,Benjamin Johnson,Port Michaelton,West Virginia,36,C,43,37941.1,61,12597.53,10/25/23
+59,James Snyder,South Lisaview,Alaska,47,C,35,88405.87,50,84965.89,4/6/23
+34,Sean Rios,New Christopher,Illinois,55,A,61,47290.31,50,8934.32,1/8/24
+72,Kevin Deleon,Nguyenland,New Hampshire,69,B,48,99139.13,25,87265.94,12/16/23
+47,Frank Branch,Bridgettown,Montana,74,E,18,23113.75,73,64976.57,4/16/23
+67,Robert Flores,Lake Matthew,Utah,33,D,80,23092.83,51,49572.59,7/30/21
+32,Mr. Bryan Warner,Rogersburgh,New York,19,B,57,6357.69,49,14559.04,12/27/22
+36,Craig Reed,Perezmouth,Maryland,51,E,34,27527.65,58,97098.41,6/7/21
+49,James Sanders,Port Lisaborough,Maine,58,C,37,95119.96,62,3131.47,5/22/25
+19,Warren Clements,Lake Aaron,Wisconsin,71,A,45,30237.33,58,69940.35,6/30/21
+44,Steven Wallace,West Robert,Florida,65,A,35,69258.46,49,72820.72,11/12/21
+71,Gabriel Reilly,Amandaport,Georgia,36,B,56,13503.24,72,14800.53,4/15/24
+48,James Doyle,Lake Rhonda,Illinois,41,B,57,58905.73,23,9138.55,6/19/24
+18,Michael Brown,South Joe,Kentucky,23,B,46,23813.41,26,23276.29,3/21/22
+24,Charles Stone,Nashfort,Texas,72,C,68,66357.56,51,76204.01,3/2/21
+78,Thomas Lopez,Matthewhaven,Arkansas,68,A,29,24619.26,67,73619.02,10/14/21
+77,Mark Calhoun,New Cynthia,Pennsylvania,33,E,79,53651.12,70,9391.8,1/17/21
+64,Alan Gomez,Ronnieville,Colorado,56,A,19,58380.7,19,34925.57,12/31/24
+21,Ryan Turner,East Sharon,Arkansas,55,B,74,1291.03,67,43602.21,4/20/25
+69,Arthur Campbell,Port Williamside,Virginia,33,B,35,84475.96,20,12496.13,3/21/24
+76,Andrew Wright,Williamsside,Minnesota,44,C,70,78899.45,54,61995.9,9/17/20
+58,James Guzman,Littleview,South Dakota,49,B,51,13310.63,79,42220.76,8/10/24
+34,David Richardson,Victorshire,Rhode Island,21,A,49,90154.37,58,37032.71,8/1/24
+56,Nicolas Spencer,Martinezfurt,Maine,79,C,30,11176.99,36,66550.45,6/12/24
+80,Russell David,Grantport,Iowa,63,B,23,58513.42,74,57756.88,11/30/20
+26,David Cole,Christopherside,North Dakota,19,A,72,60673.16,55,19773.24,2/1/22
+70,Andrew Villarreal,South Andrew,Ohio,44,B,68,96577.66,26,5093.15,8/18/21
+19,David Collier,West Bradville,Wisconsin,45,C,46,83821.29,74,27054.66,5/13/23
+66,Michael Lawrence,North Nicholaschester,Alaska,60,A,78,68157.01,78,20242.11,9/6/21
+56,Gary Smith,Catherinehaven,Michigan,66,A,53,67939.24,43,68532.62,10/9/21
+74,Randy Molina,Port Mary,Maryland,18,A,70,20301.75,72,61021.59,8/1/20
+43,Richard Love,South Stevenshire,Maine,41,A,67,24890.57,56,48428.22,7/4/21
+77,Micheal Thompson,Jacksonborough,Iowa,46,E,72,56120.33,38,21606.39,4/22/22
+79,Jacob Rose,Coxstad,Kansas,65,D,76,17392.61,43,91454.66,5/9/22
+27,Michael Maxwell,Normanborough,South Dakota,26,C,74,17603.01,57,86545.05,8/28/21
+26,Brandon Brown,Lake Maryside,Michigan,58,D,76,71481.75,24,35545.29,11/6/21
+50,Samuel Cunningham,Kimberlymouth,California,77,A,64,33881.9,37,35595.62,10/12/21
+42,Jeffrey Martinez,Garymouth,New Jersey,37,C,65,48217.66,22,52706.45,3/18/24
+21,Kevin Sosa,Port Patriciamouth,New Hampshire,68,B,68,17776.8,33,48701.05,12/8/20
+49,Richard Flores,West Jillian,Nevada,35,C,69,3742.35,20,91468.16,5/24/24
+42,Joseph Rhodes,Port Edwardmouth,Vermont,51,C,70,15062.99,52,69901.07,6/25/24
+20,Matthew Austin,West Wesleyfurt,Wyoming,63,D,69,13129.06,66,2733.21,9/29/20
+52,Darren Long,Annburgh,Louisiana,56,A,70,69876.33,36,91539.47,9/23/22
+22,Jose Soto,Williamsmouth,Alabama,72,C,55,36303.7,18,2046.92,8/21/24
+48,David Blevins,South Michaelborough,Nebraska,55,A,57,48463.02,43,67267.2,4/15/21
+48,Bradley Garrett,Johnland,Colorado,19,A,18,53054.91,72,16845.57,8/28/24
+48,Michael Leon,Lopezburgh,Hawaii,42,B,57,4934.3,34,39968.58,4/20/24
+25,Ryan Watson,East Andrew,Nevada,30,D,46,51005.59,70,9081.19,4/18/22
+54,Nicholas Lindsey,Lake Suzannebury,Nevada,51,A,73,34567.51,79,30590.77,3/17/21
+42,Anthony Gardner,Larrystad,Louisiana,50,D,54,7861.89,47,13982.75,4/2/25
+55,Richard Yu,Port Oliviabury,Washington,65,A,28,57563.64,19,58392.31,6/24/22
+55,Dr. Eric Foster,Alyssaview,Washington,49,B,71,32541.35,64,23741.13,2/25/23
+45,Francis Lowe,Palmerfort,New Jersey,28,D,34,84590.85,59,80666.46,8/5/21
+79,Stephen Bailey,Hernandezbury,Vermont,18,E,37,36440.59,38,56114.03,7/9/22
+74,Jonathon Douglas,East Chad,New Jersey,31,A,73,30147.7,76,9187.29,2/14/22
+68,Christopher Gonzales,Lake Gwendolyn,Kentucky,71,B,58,50678.09,51,64452.72,10/11/20
+61,Joshua Taylor,Josephshire,Ohio,37,B,19,22058.56,55,31061.23,7/10/22
+51,Michael Jordan,West Summer,Texas,37,C,48,79890.26,19,99323.25,3/15/24
+47,Jonathan Fitzpatrick,North Charlesbury,South Carolina,77,A,33,91115.18,48,92148.03,3/17/24
+57,Christopher Murillo,Robertton,Washington,61,B,71,4078.23,37,19543.17,7/28/24
+31,Trevor Atkins,South Karen,Illinois,59,E,37,60377.68,36,35986.55,6/14/21
+45,Joshua Clay,New Joshua,Oregon,52,B,53,6655.66,33,60711.87,8/20/23
+54,Richard Evans,Connermouth,Oklahoma,60,C,29,64289.31,43,68557.71,6/16/23
+40,Richard Johnston,Port Anthonystad,Alabama,65,C,43,63837.41,56,6705.27,4/15/23
+78,Andrew Martinez,Bushton,Mississippi,53,B,19,94954.18,48,47857.65,12/6/24
+73,Christian Edwards,Jeffreyfort,Oregon,21,B,71,88408.51,77,91318.46,7/22/20
+33,James Fowler,Wilsonhaven,New Jersey,57,A,55,86347.84,58,35629.68,5/25/21
+27,William Salazar,West Ashley,Connecticut,46,A,39,68623.79,70,50053.53,10/4/21
+42,Fred Diaz,Port Jessicamouth,Oregon,33,D,48,15544.22,19,81421.76,11/5/20
+57,Hector Benitez,South Jamieland,Oregon,52,A,71,54925.02,39,93986.46,6/25/24
+42,Mr. Andrew Herring,New Adrianmouth,Pennsylvania,41,C,28,91894.69,36,84572.95,8/26/20
+31,Patrick Brown,Kimview,Iowa,78,C,58,88443.6,71,50203.47,3/3/21
+44,Trevor Burton,Carsonport,Delaware,31,C,80,67583.26,50,65107.6,12/9/21
+59,Zachary Hunter,Fowlershire,Maine,25,D,45,39759.53,30,12623.39,5/9/22
+40,Joshua Gibson,South Troy,Kansas,24,C,19,53930.92,23,72698.38,11/9/24
+52,Douglas Bush,South Tiffanyview,Kentucky,21,A,76,68231.59,63,62917.61,3/18/25
+66,Steven Mata,East Nicole,Florida,57,C,32,52037.82,51,82601.12,7/12/24
+48,Robert Mckinney,West Cynthiaton,Utah,22,C,45,7357.97,43,85085.4,8/31/24
+64,Christopher Porter,Daltonbury,Florida,77,A,39,58106.88,34,2579.52,11/25/20
+18,Thomas Mcbride,Calhounfort,Michigan,71,A,48,68485.94,41,21362.54,4/10/22
+75,Andrew Reynolds,Lake Joseph,New Hampshire,51,E,74,10246.03,37,46441.79,2/10/24
+67,Jeffrey Young,West Thomasshire,Delaware,79,B,27,85428.58,28,50506.28,2/6/22
+36,James Armstrong,North Derrickville,Texas,53,A,73,22417.33,43,41198.12,12/17/22
+61,Matthew Hernandez,Tylerberg,Kentucky,40,C,55,13426.94,20,84476.71,11/5/24
+49,Brett Lee,East Tom,Vermont,19,A,44,36242.65,70,31844.11,12/8/22
+42,Mr. Stephen Taylor,South Joytown,Arizona,64,B,53,83974.34,70,25496.25,4/15/21
+34,Derek Foster,Michaelport,Kansas,40,B,74,19698.1,44,80941.44,5/24/25
+34,Jose Sanchez,New Johnside,Minnesota,19,A,44,59234.06,19,47749.02,9/20/22
+45,Timothy Forbes,North Brandon,South Carolina,47,D,72,97382.37,73,40860.07,3/16/24
+56,Mr. Joshua West,West Linda,Pennsylvania,46,E,25,53474.78,27,37780.91,7/7/23
+64,Kevin Owens,Valerieview,South Dakota,45,B,48,10189.16,62,98977.04,6/23/21
+61,Thomas Smith,Howellside,Hawaii,42,B,57,25950.94,50,50684.25,11/28/21
+26,Terrance Shepard,Johnmouth,Idaho,45,A,24,37250.74,57,25188.31,3/5/21
+77,Trevor Duncan,Prattchester,Ohio,61,B,59,52099.05,33,18511.76,2/4/21
+26,Daniel Ali,Lake Brendanville,Georgia,67,E,74,89934.22,69,59744.99,10/9/22
+25,Shane Thomas,Port Michelletown,Maine,35,A,54,4490.36,49,28622.17,12/9/20
+57,Ian Ramirez,Alexandrastad,California,48,B,43,49571.37,36,77209.47,8/2/20
+69,Matthew Anderson,Josephberg,Washington,22,A,56,33659.74,69,40534.93,12/21/21
+40,John Barber,New Jennifer,Massachusetts,34,A,75,5547.51,49,84611.72,11/22/23
+73,Joshua Wallace,South James,Arkansas,51,E,61,82797.44,44,33246.12,12/19/23
+42,Mark Ingram,Port Stephanie,Tennessee,22,B,45,83300.45,41,18246.64,11/10/21
+37,Franklin Wood,Juanville,Maryland,80,A,61,22160.21,19,56954.43,8/1/24
+53,Kyle Barton,New Elizabethberg,Virginia,36,D,53,18343.95,76,44388.89,6/8/22
+74,Harry Smith,North Amandaville,Rhode Island,28,C,48,95278.95,40,85607.38,6/30/23
+19,Paul Bradley,New Anthony,Utah,26,A,67,80735.97,54,98124.9,9/19/24
+60,Scott Lamb,Blakeside,Rhode Island,65,C,48,68975.56,38,83806.45,6/21/24
+36,Matthew Jones,Trujilloberg,Connecticut,58,A,59,57266.23,68,35810.6,2/17/24
+35,George Anderson,Popeville,Washington,67,A,50,76462.5,50,88550.48,9/2/22
+43,Joseph Cooper,Paulbury,Massachusetts,40,B,33,27745.79,69,44938.68,12/9/24
+52,Brandon Johnson,Cookberg,Vermont,36,B,29,83135.32,69,93621.91,3/4/24
+34,Scott Costa,Port Kristinside,Kentucky,39,B,19,2734.25,32,17594.38,8/15/20
+40,Joseph Mccall,New Brandon,Wisconsin,27,A,79,77555.6,42,29933.66,3/29/24
+72,Thomas Howard,Lake Jenny,Delaware,64,A,79,38055.94,51,71135.86,4/12/25
+26,Jordan Shaw,Andersonbury,Montana,59,C,47,72916.76,22,28737.06,3/25/21
+77,Timothy Garcia,Lake Daniel,Hawaii,33,A,74,69604.36,31,94977.18,1/28/23
+68,Joseph Johnson,Calebmouth,Arkansas,77,A,43,5716.14,45,74969.64,9/28/20
+65,Raymond Calderon,New Elizabeth,Idaho,35,A,23,2578.56,43,3587.75,6/1/23
+73,Brian Miller,North Rhonda,Connecticut,77,B,25,70323.66,69,55212.88,5/21/24
+61,Anthony Singh,South Amandaview,Texas,76,A,46,20406.98,18,17807.16,7/4/22
+33,Jeremy Bowers,Phillipshire,Wisconsin,52,C,64,58886.6,20,15633.79,11/16/20
+51,Dr. Russell Gates,Lake Deannafurt,Delaware,80,C,62,82315.01,21,97346.64,12/15/22
+60,Alejandro Hudson,North Gabriel,Mississippi,63,A,35,68183.62,37,3908.15,6/11/24
+29,Michael Kelly,Port Martha,Washington,19,C,44,43463.38,73,60976.15,5/13/25
+68,Thomas Williams,South Andrewmouth,New Mexico,23,A,34,97237.35,32,8068.14,10/22/23
+76,Ethan Sanders,Port Janetton,Delaware,68,A,60,54189.68,23,93616.75,7/15/22
+56,Steven Young,Lake Juliefurt,Massachusetts,56,D,45,35343.83,44,83832.27,6/28/20
+52,David Mcfarland,West Monique,Oklahoma,24,C,33,80235.2,61,22962.85,3/10/24
+80,Robert Gutierrez,North Beverlymouth,Washington,76,C,77,41986.42,41,40217.53,7/28/23
+33,Brian Newman,West Lorifurt,Massachusetts,30,B,74,77917.67,50,53028.17,7/9/20
+36,Andrew Richard,New Madisonshire,Oregon,63,D,73,92222.8,30,72934.08,7/17/22
+31,Robert Fox,Jonesmouth,California,54,B,77,87586.74,54,72686.66,3/15/22
+30,Phillip Buck,Lake Sandra,Kansas,53,A,23,46660.23,69,47412.01,4/18/24
+61,Mark Garcia,East Denise,Arkansas,44,B,67,66232.38,25,70325.65,4/24/21
+73,John Mckay,Williamsonborough,Alabama,64,B,52,7012.96,21,87451.45,9/11/24
+45,Tony Harmon,Brianmouth,Colorado,69,C,58,74321.52,29,47292.74,8/24/23
+45,Ryan Williams,South Melissa,Illinois,64,A,40,4200.32,46,51870.99,7/1/20
+48,Samuel Chambers,West William,Rhode Island,56,C,21,39937.75,57,68626.13,11/26/24
+57,Thomas Garcia,Khanmouth,Rhode Island,75,C,62,24808.86,58,28167.93,10/23/24
+38,Charles Vega,New Anthonyberg,Rhode Island,67,B,38,61292.29,48,80090.29,10/28/20
+58,William Garrison,Greerberg,Tennessee,70,C,79,81734.59,35,16936.6,4/23/21
+43,Daniel Williams,Jeffreyview,Virginia,31,B,34,66841.01,60,65959.46,2/22/22
+35,David Jackson,Samuelmouth,South Dakota,31,C,18,19074.65,35,72029.42,3/7/25
+65,Steven Sanders,Juarezshire,Georgia,39,C,50,11016.74,21,67131.24,8/11/21
+44,Logan James,New Nathanview,Mississippi,31,A,56,94966.51,44,80458.05,8/26/20
+61,Matthew Huynh,West Emily,California,60,A,55,76965.92,51,93828.38,6/30/20
+43,Eric Walker,Port Aprilborough,Hawaii,76,C,42,91129.55,41,13251.01,3/26/21
+51,Daniel Gonzalez,New Deanshire,Minnesota,70,A,32,8770.21,48,61027.79,2/26/23
+47,Luis Brown,East Maryberg,Rhode Island,76,D,77,82298.12,70,37756.02,4/14/24
+25,Jeremy Baker,West Rubenbury,New Jersey,25,C,56,40659.32,78,68673.61,7/13/20
+33,Gabriel Ward,East Desireeberg,Virginia,21,E,57,51471.08,40,26046.11,3/20/22
+70,Scott Davis,West Brentport,South Dakota,67,A,51,39239.59,48,1025.86,7/19/24
+65,Daniel Richard,Callahanmouth,Iowa,26,A,32,32935.76,27,41754.33,6/25/20
+69,Mr. Bruce Warren,Johnport,New Mexico,49,A,76,41522.26,32,66106.07,1/5/23
+72,Matthew Miller,New Dawn,New Hampshire,71,B,37,22281.55,38,61346.64,6/6/21
+67,Jose Austin,New Madeline,West Virginia,27,B,40,60367.94,54,77363.61,10/16/24
+63,Jonathan Harris,Michaelstad,Maryland,45,B,26,27999.14,39,14901.74,5/10/24
+53,James Mcguire,Jenkinsport,Louisiana,37,E,63,47570.85,50,61309.3,3/3/21
+35,Nicholas Velasquez,Randolphstad,Montana,74,A,47,27827.87,65,8464.8,5/31/23
+67,Nathan Charles,Lukehaven,Indiana,30,B,61,6466.77,19,40189.43,1/10/25
+72,Antonio Blake,Sampsonside,Montana,31,A,59,49321.92,72,21379.88,12/6/20
+24,James Smith,Robinburgh,Florida,38,A,31,44046.61,75,83491.68,9/3/21
+68,Scott Gill,North Amystad,South Carolina,43,B,38,66302.64,49,89378.39,1/12/22
+30,Daniel Green,Tracyberg,North Carolina,50,C,31,50673.74,68,76076.72,2/11/24
+28,Daniel Oconnell,South David,Alaska,33,A,60,71652.31,77,83094.2,3/3/23
+59,Scott Joseph,Lake Diana,Louisiana,33,D,57,47504.97,45,88658.65,8/20/24
+64,Travis Wright,Brownland,Kansas,18,C,67,94020.94,55,34180.41,8/6/20
+52,Jonathon Hernandez,Christineville,Iowa,75,A,50,3838.07,72,7227.74,5/6/25
+65,John Smith,Floydview,Kansas,58,D,54,24447.85,69,61265.82,1/8/23
+46,Andre Osborne,Royville,Oregon,21,C,22,72488.86,74,80256.55,6/19/24
+75,Daniel Fowler,Bowenstad,Wisconsin,71,D,75,18900.75,35,86223.05,8/24/23
+72,Cristian Kramer,Port Evanburgh,Missouri,75,A,42,25107.45,75,24639.55,1/24/22
+52,Jason Barrera MD,New Heather,Kansas,41,A,67,51227.3,50,3351.9,1/19/21
+72,Matthew Ramirez,West Laura,Utah,54,B,50,85187.45,71,51289.89,10/11/21
+67,Bradley Beck,Leblancberg,Arizona,23,D,24,92030.15,51,11826.12,7/11/22
+43,Phillip Stewart,West Andrewport,Arkansas,43,D,20,34843.7,44,83177.84,7/13/24
+22,Francis Anderson,Myerston,Alaska,25,A,62,90241.61,40,36012.3,1/28/21
+46,James Wallace,Colemanview,New Hampshire,55,A,56,61241.57,21,27134.51,12/16/22
+25,Michael Sweeney,East Alexa,Vermont,59,A,65,11730.17,51,1568.68,12/12/22
+27,Calvin Nelson,Wandatown,Massachusetts,61,B,30,88291.91,61,58997.25,6/8/20
+20,Jamie Patterson,North Sharon,Wyoming,40,D,20,54727.94,21,33705.49,2/15/23
+39,Joshua Henson,Martinezview,Utah,18,B,33,7717.95,64,6455.58,4/27/22
+24,Gregory White Jr.,North Nicoleshire,Missouri,42,A,59,54881.01,47,16685.48,3/8/23
+55,Michael Greer,Michaelmouth,Oklahoma,59,A,29,39154.05,54,47625.34,3/29/22
+60,Richard Patterson,Thomasmouth,Georgia,78,B,62,81673.37,54,21962.5,12/24/23
+42,Jeremy Gonzalez,South Jessica,New Jersey,68,B,79,23792.76,34,1873.08,8/8/24
+49,Ross Hernandez,Joefurt,Colorado,66,C,53,31582.9,28,82200.45,12/21/22
+52,Christopher Garcia,Paigeberg,Montana,34,A,57,42135.72,50,46448.58,8/1/20
+38,Jose Sandoval,Gloverberg,Florida,39,C,37,61334.75,61,25827.25,10/30/20
+31,Jared Mcneil,South Daniel,Massachusetts,50,A,54,98613.14,55,20964.78,2/10/25
+49,Mike Murphy,Jenniferbury,Missouri,56,C,38,37593.54,37,57319.03,1/27/21
+58,Larry Gilmore,Annachester,Indiana,34,A,26,76318.26,49,55566.23,4/4/23
+65,Jason Peters,Jessicabury,Maine,27,D,32,29192.49,24,39446.33,10/28/22
+20,Mr. Christopher Johnson,Lake Ronald,Connecticut,18,B,50,23383.72,36,4089.01,3/1/22
+41,Dominic Mcdaniel,Georgemouth,Arizona,48,B,48,75791.4,37,40050.22,2/16/25
+33,Martin Lee,Curryton,Texas,66,A,47,22796.24,40,54519.92,9/30/20
+43,Joseph Long,Comptonfort,Massachusetts,52,A,18,97077.4,77,29464.9,3/26/21
+60,Aaron Alvarado,South Brett,Arkansas,44,B,80,15823.65,18,55230.91,12/11/23
+62,Jonathon Calhoun,Matthewtown,Arkansas,47,B,45,67306.82,66,89190.24,8/12/20
+41,John Montgomery,Lake Markstad,Wisconsin,61,B,43,13161.46,80,52419.52,8/18/24
+79,David Mills,Davidview,Oregon,40,C,54,85726.28,79,76404.3,12/11/23
+39,Ryan Bryant,Dawsonport,Idaho,28,B,75,62538.8,28,11711.1,5/11/24
+46,Justin Hicks,Popeborough,Nebraska,23,A,39,59561.28,45,39375.8,3/31/21
+29,Terry Ross,East Brandi,Colorado,37,C,63,10968.82,21,57379.36,11/7/23
+62,Marcus Mason,New Dale,Utah,41,B,72,2530.73,24,63382.54,6/7/20
+27,Mark Best,Henrymouth,New Hampshire,44,B,35,59027.68,63,88493.39,11/15/21
+59,Jacob Yoder,North Jesseside,Arkansas,40,B,18,43329.3,67,47553.73,8/19/20
+50,Alex Melton,New Daniel,Missouri,23,A,71,92481.1,32,8417.69,4/30/25
+70,Juan Sosa,North Samuel,Nebraska,70,D,61,6752.35,50,46185.6,12/29/21
+31,Matthew Williams,Kruegerhaven,Mississippi,78,D,21,30260.16,65,9339.58,4/2/23
+26,Peter Vance,Josephmouth,North Dakota,28,B,56,18055.89,35,10985.4,2/11/23
+35,Fernando Andrews,New Kaylahaven,Iowa,34,D,60,60543.66,20,39534.76,7/15/21
+35,Robert Garcia,Denisemouth,Arizona,29,A,78,69388.72,21,62545.63,11/11/24
+74,Zachary Herrera,Nicholasmouth,Wisconsin,30,A,60,29629.56,80,55915.27,6/29/22
+52,Nathaniel Allen,Thomasmouth,Utah,68,A,35,57932.11,47,89027.23,8/30/20
+57,Daniel Lucas,Yvonnefort,Rhode Island,67,A,47,49593.91,48,61995.53,9/21/23
+68,Richard Houston,Mossland,Rhode Island,18,E,50,2741.69,56,86280.45,1/23/25
+79,Jeffrey Soto,East Leeville,Connecticut,72,A,39,27407.65,53,61297.59,12/19/21
+64,David Obrien,Katherineburgh,Idaho,28,A,45,53662.7,75,15156.61,4/26/23
+74,Arthur Rodriguez,Colemanshire,Arkansas,78,A,39,55932.45,28,37649.41,10/5/23
+59,Adam Rangel,Port Raymondfurt,Tennessee,29,D,68,63337.24,33,75202.66,6/23/20
+61,Andre Nolan,Campbellview,Maine,74,A,63,54642.76,25,86467.26,4/20/23
+62,Clifford Coleman Jr.,Lake Kristinamouth,North Dakota,26,A,62,53914.19,30,7499.14,2/24/23
+40,Nathaniel Padilla,East Courtney,Vermont,58,A,60,25269.47,37,7542.37,7/7/23
+71,Logan Knapp,East Michelle,Minnesota,76,B,22,96829.97,58,70498.25,11/2/22
+36,Samuel Stewart,Velezland,Colorado,77,C,51,90653.67,55,29716.89,4/26/21
+46,Derrick Jordan,Hollandview,Hawaii,55,A,59,83236.07,63,44724.39,7/24/22
+55,Dustin Scott,Lake Martin,New York,20,A,63,76506.79,40,68592.74,3/9/22
+67,James Brown,Samanthafort,Arkansas,41,C,48,53754.72,25,68139.67,12/14/24
+27,Shawn Mason,Jonesside,New Mexico,73,C,80,40068.89,18,18140.71,3/20/21
+70,William Mitchell,North Michael,Tennessee,33,A,46,27422.69,33,8734.77,11/24/23
+76,Kenneth Obrien,New Kirstenborough,Kentucky,66,A,33,20776.83,23,95684.92,9/3/20
+57,Joseph Morris,West Jacquelinetown,South Dakota,66,B,73,14423.01,70,15213.96,10/24/24
+73,Jason Rice,North Amy,Arizona,46,A,39,43741.71,18,13063.89,1/14/22
+72,Robert Gallagher,Carpenterville,Kentucky,67,A,27,27225.36,64,57565.21,5/28/23
+39,Nicholas Lopez,North Gilbert,Pennsylvania,35,D,59,84461.4,39,94180.77,12/21/20
+46,Michael Hoffman,Justinview,Texas,24,A,46,47388.69,78,27890.05,11/15/23
+79,Gregory Thomas,Simmonsborough,Tennessee,47,A,61,27662.06,48,39665.6,4/25/23
+60,Matthew Brown,Port Wyatt,Oregon,48,A,52,49927.19,64,54457.22,1/16/22
+32,Seth Turner,Port Justinland,Alaska,49,C,46,85485.45,47,21554.99,8/21/20
+41,Brian Turner,Shannonchester,Michigan,20,A,46,60066.26,21,10097.86,10/16/22
+43,Paul Peters,South Joview,Tennessee,31,A,22,21264.84,76,20086.49,8/9/24
+65,John Martin,South Christopher,Louisiana,55,B,40,53622.59,19,37475.38,8/6/21
+64,David Williams,Port Tammy,Georgia,76,B,53,63755.42,39,79852.37,11/23/21
+77,Jacob Miller,Aaronchester,Rhode Island,75,A,45,82951.37,44,73501.48,1/26/22
+61,Mark Sanders,Robertsburgh,Missouri,56,D,75,47853.39,70,71766.52,1/21/25
+56,Glenn Mcdaniel,Santosshire,New Mexico,40,E,61,41719.44,71,57929.52,10/8/23
+36,Ryan Brown,Joannaville,Mississippi,78,B,70,89056.11,40,7298.91,6/29/24
+67,Arthur Hawkins,Lake Katherine,North Carolina,23,A,67,89977.2,54,80788.62,11/10/22
+31,Eric Dalton,New Aaronbury,Louisiana,33,A,42,15997.17,43,97709.31,12/7/21
+78,William Barrett,Wardtown,Iowa,53,B,29,16297.04,28,92814.78,10/29/22
+22,Phillip Wilson,South Cindy,Florida,49,C,21,16022.29,28,55617.87,12/17/20
+73,Timothy Myers,North Patrick,Vermont,25,C,45,24653.27,45,69518.49,5/5/23
+29,Brent Nguyen,North Ashlee,Oregon,50,B,69,33890.97,71,29329.45,5/4/24
+34,Jason Gilmore,East Maryville,Minnesota,75,C,56,31492.17,66,20690.84,6/4/20
+21,Justin Garza,Larrymouth,Vermont,58,B,31,95090.9,66,93941.66,9/12/20
+23,Brian Black,Port Julie,Indiana,38,B,51,9813.12,64,31870.61,10/4/23
+64,Luke Webb,Samuelville,North Dakota,18,A,23,51861.32,65,58978.92,12/18/24
+29,Bryan Beck,West Josephfort,Hawaii,34,C,31,97373.49,23,82980.5,12/9/22
+37,Wesley Spencer,New Laura,Iowa,31,C,52,1070.91,71,76293.66,8/25/21
+78,Leroy Anderson,Roychester,Massachusetts,20,D,25,14857.73,39,12331.47,5/8/21
+77,Samuel Cunningham,Gwendolynhaven,Alaska,74,B,50,76201.56,72,54022.59,11/17/23
+61,William Martin,Lake Gina,Virginia,29,A,34,80297.92,46,1283.24,7/22/20
+79,Timothy Bennett,New Ryan,Rhode Island,52,C,36,60374.85,39,18385.44,12/27/21
+44,Edward Villanueva,Roseberg,Hawaii,39,D,72,37567.77,80,23029.25,5/21/23
+78,Troy Jones,Simmonshaven,Maryland,55,C,64,62128.9,19,77207.22,11/16/21
+29,Steven Pearson,Williambury,Virginia,58,B,20,16125.77,67,98385.34,10/19/21
+41,Jared Underwood,New Deannachester,Montana,74,B,30,78424.47,72,54879.97,4/29/21
+20,Kevin Brown,New Nancybury,Utah,28,A,77,61301.57,61,21931.56,1/21/21
+62,Julian Roberts,North Ashleyville,South Dakota,47,B,76,88646.5,43,35795.09,4/6/25
+39,Ryan Barr,North Felicia,Iowa,44,A,75,89564,63,65863.15,5/17/23
+21,Carl Ellis,Morganshire,Minnesota,70,C,51,10299.61,55,86836.99,1/27/22
+70,Jorge Harris,Shelbymouth,Iowa,22,A,57,13857.18,73,63449.5,6/8/23
+72,Thomas Smith,East Aaron,New Mexico,20,E,79,31448.85,25,74515.68,3/12/23
+29,John Johnson,West Jasmineview,Maine,79,A,28,59749.51,80,52975.2,7/11/21
+34,Scott Bartlett,Jessicaberg,Wyoming,44,B,23,68542.41,29,41285.26,8/14/22
+62,Riley Weiss,Davisport,Arizona,45,B,77,26372.97,40,35019.54,1/14/23
+38,Benjamin Brock,Garciafort,Delaware,19,B,59,73856.02,49,65640.9,6/6/21
+41,Robert Mitchell,East Emily,New Hampshire,74,A,35,87474.92,65,2717.88,9/4/20
+70,Travis Kelly,Michaelbury,New Hampshire,30,A,24,72316.05,39,70526.6,7/4/22
+25,Steven Snyder,Wardshire,Wyoming,18,A,30,2284.47,18,52226.38,6/17/21
+62,Bryan Ortiz,South Shelley,Maryland,70,C,60,5570.8,21,45504.18,1/10/23
+63,Zachary Osborn,Dawsontown,South Dakota,52,B,61,28033.68,23,72922.6,11/1/24
+36,William Schmidt,Hollowayfort,Montana,49,C,24,35075.43,79,97043.05,10/3/21
+43,Reginald Brown,Lake Jennifer,Utah,30,A,60,29941.22,46,40209.11,7/13/23
+45,Jose Hall,Ericfurt,Oregon,74,D,37,45843.35,51,94987.3,1/16/23
+76,Jacob Dennis,New Carolburgh,South Carolina,43,B,34,82937.92,49,49870.75,5/18/24
+60,Trevor Fisher,Washingtonton,Rhode Island,59,B,74,87267.58,18,75179.85,10/1/23
+39,Craig Moore,Johnsonburgh,Arkansas,68,A,69,48815.85,23,59753.68,3/23/23
+30,Daniel Cross,Sellersbury,Pennsylvania,70,A,60,16768.92,64,68238.82,5/1/22
+25,James Bennett,Valeriefort,Montana,53,A,76,56278.32,73,89213.05,6/2/21
+65,Jack Marsh,New Ericaville,Oregon,76,B,38,64816.28,65,11753.58,7/19/24
+73,Alan Vega,Brownside,Montana,41,B,39,72395.98,26,68276.65,2/18/22
+45,Rodney Khan,New Eileenhaven,Maine,45,B,32,98033.41,22,50422.21,12/16/22
+67,Matthew Reynolds,Dustinchester,New Jersey,25,A,18,32140.96,44,16100.9,2/5/23
+24,Derrick Hill,West Williamburgh,Nevada,51,E,38,7205.46,74,36820.58,8/28/20
+80,Spencer Richardson,Lake Gabrielaville,Georgia,69,B,25,85967.4,37,56400.16,11/4/24
+77,Bruce Oneill,Triciastad,Arkansas,47,B,36,73764.91,79,71870.76,8/4/23
+23,Matthew Thompson,North Kevinmouth,Nebraska,21,C,73,37926.87,48,57463.69,3/27/22
+58,Brian Pittman,Flowersborough,Missouri,78,A,50,6339.41,43,96328.4,1/6/24
+52,Eric Scott,Karenbury,Michigan,46,C,47,66302.24,37,27236.37,1/6/24
+52,Alexander Baldwin,New Kathleenberg,Kansas,56,A,18,29429.92,60,70412.59,1/9/25
+18,Matthew Thomas,New Raven,Vermont,63,D,22,30742.82,30,68709.69,4/16/24
+74,Michael Richards,East Cathy,Utah,76,A,72,36843.07,22,39797.52,12/18/23
+77,Don Brown,Hansonmouth,North Dakota,28,A,18,64481.3,41,76915.39,2/23/21
+67,Richard Bowman MD,South Erikside,Kansas,59,A,79,59200.94,47,51085.66,7/30/22
+62,Joseph Oconnell,Thomasburgh,Wyoming,45,B,79,32507.56,50,34315.41,9/8/22
+64,Danny Foster,Port Barbaratown,Colorado,35,A,36,22220.58,53,53209.71,12/21/21
+62,Vincent Obrien,Valeriestad,Texas,28,A,43,62751.66,74,3409.15,3/23/23
+49,Johnathan Williams,West Kimberly,Idaho,25,B,77,34642.8,57,28091.83,4/24/24
+36,David Farrell,North Jennifertown,Maryland,26,B,77,72149.76,66,19589.38,5/27/23
+48,Chad Anderson,Veronicaton,Louisiana,35,D,31,72391.55,19,61344.72,10/8/21
+65,Richard Jacobs,East Michaelmouth,Oregon,42,A,19,54696.85,56,88081.61,2/23/21
+38,Andrew Roberts,Roweshire,Nebraska,44,B,68,17202.04,46,72534.53,3/22/25
+25,Aaron Vazquez MD,New Dustinside,New Hampshire,37,A,53,55796.33,60,13777.46,12/18/22
+48,Darrell Gonzalez,Jenniferton,Montana,42,C,27,78057.29,73,87464.29,4/5/25
+69,Oscar Welch,Janetstad,Pennsylvania,19,A,47,64027.57,63,61293.66,12/29/24
+50,Richard Martinez,Jennifermouth,Minnesota,61,A,50,48661.23,37,40499.41,6/9/23
+26,Matthew Taylor,New Patricia,Colorado,21,C,31,26106.37,75,51045.64,5/26/23
+33,James Martin,East Jennifer,Michigan,71,A,28,47742.3,41,35658.87,10/31/23
+37,Danny Smith,South Robert,Minnesota,42,D,63,15037.85,40,78940.48,7/28/23
+76,Todd Sawyer,Ewington,Mississippi,78,D,44,32903.16,39,72783.27,2/11/22
+77,Stephen Solomon,East Hannah,Utah,26,C,68,19420.13,34,51148.66,3/23/22
+47,Russell Davila,Lake Brandonborough,Rhode Island,51,C,61,62534.46,26,40970.16,12/3/20
+66,George Evans,West Danielle,Missouri,68,B,43,57036.88,40,79159.81,3/25/25
+80,Jon Butler,Allenmouth,Kansas,77,A,71,34136.3,36,37876.48,9/14/21
+80,Brandon Weaver,Robertview,Montana,45,A,66,44366.31,29,95586.57,6/24/23
+42,Todd Miller,Port Michaeltown,North Dakota,20,D,39,75404.63,56,46604.96,5/15/25
+79,Mr. Michael Butler DDS,Erikstad,Georgia,44,B,36,33734.96,28,30757.13,5/24/22
+47,William Fritz,East Stanleyhaven,New Hampshire,20,A,19,78236.1,66,40348.28,7/16/24
+39,Christopher Rodriguez,Adamsville,Montana,69,A,36,63927.93,53,8758.83,8/22/24
+48,Dr. Andrew Brown MD,New Judy,Idaho,42,E,39,10179.31,73,31791,5/4/25
+65,Christopher Vazquez,Jasonfort,Colorado,56,A,59,24869.52,45,74297.61,6/28/24
+28,David Murray,Evansport,Oregon,63,B,73,12347.99,28,46212.56,11/20/21
+56,Daniel Chang,Ericchester,North Carolina,47,A,29,13272.87,29,57405.51,11/2/20
+38,John Avery,North Joseph,Ohio,71,A,37,13476.41,26,95958.85,4/18/21
+39,Andrew Thompson,East Emilymouth,Massachusetts,67,A,18,1685.73,29,66430.73,10/30/20
+38,James Pham,Muellermouth,Wisconsin,41,B,76,9282.39,53,56597.21,7/21/23
+18,Brandon Smith,New Joseph,Rhode Island,61,B,25,80535.42,21,33491.47,4/26/24
+44,Gregory Garner,East Johnstad,Georgia,56,A,63,16349.01,45,14832,3/19/23
+24,Bryce Hayes,Williamsville,California,56,D,69,58755.6,77,3321.12,1/1/22
+40,Benjamin Chapman,Powellmouth,Wyoming,21,B,67,82745.58,76,87979.4,12/28/21
+51,Julian Duran,Gregoryhaven,Oregon,46,A,53,93562,46,6019.22,11/26/20
+63,Jay Townsend,Annabury,Texas,25,A,21,90729.32,59,23618.6,2/13/23
+45,Michael Cruz,South Thomas,Alabama,49,E,26,57162.25,47,16514.69,1/18/22
+42,Anthony Pugh,Murrayfort,Colorado,28,B,38,68701.12,18,70050.33,9/7/21
+67,Raymond Robinson,North Amanda,North Dakota,35,B,58,57475.96,25,92462.29,11/7/21
+25,Andrew Todd,South Jeffreymouth,Kansas,30,C,63,70600.85,39,12660.99,8/7/22
+50,Brian Duncan,Ashleyland,Arizona,57,A,62,97087.51,55,23763.73,7/15/23
+54,Mr. Jeffery Vasquez,Patriciaside,Tennessee,23,A,49,48853.74,73,60387.81,10/28/24
+19,Donald Lewis,East Johnshire,New Hampshire,58,A,34,38954.53,71,93225.33,2/6/24
+62,Parker Massey,Port Connor,Tennessee,69,E,24,87714,52,68165,7/5/24
+25,John Martinez,Richardtown,Connecticut,20,C,56,79258.54,68,62011.15,3/16/25
+77,Corey Bennett,Tammystad,Virginia,64,E,39,96127.31,50,25824.64,7/29/22
+32,Daniel Perkins,Goodwinbury,Kansas,22,A,54,89401.53,59,43809.74,1/31/23
+30,Travis Kane,Shannonshire,Colorado,25,A,60,83354.85,24,48027.6,7/26/20
+29,Mark Henderson,North William,West Virginia,59,A,67,91320.23,27,67100.15,8/11/20
+40,Michael Davis,North Aaron,Oklahoma,77,A,78,21851.01,29,65349.3,3/7/24
+69,David Ochoa,East Ronald,New Jersey,74,B,71,14377,27,4181.68,4/8/25
+54,Seth Fisher,Robinberg,Montana,42,A,38,47617.06,59,62512.28,10/6/23
+19,Richard Higgins,New Toddfurt,Louisiana,68,A,64,61106.94,54,87709.63,4/2/21
+73,Jesse Cunningham,South Christopher,Pennsylvania,52,B,44,29900.25,44,22726.07,10/23/22
+48,Juan Davis,Sellersside,South Dakota,55,C,27,40962.36,24,53528.45,4/9/22
+59,James Atkinson Jr.,North Richard,Missouri,59,A,47,38020.93,38,81383.32,12/4/23
+48,William Joseph,Garciaburgh,Pennsylvania,26,A,52,22888.32,46,14880.85,1/5/21
+72,Randy Perez,Millerhaven,Michigan,25,B,18,17984.25,24,20557.56,6/11/20
+46,Eric Young,New Stephenborough,Hawaii,60,A,61,57764.12,56,71022.18,11/8/21
+19,Matthew Suarez,West Johnny,Connecticut,21,A,66,77967.9,58,46842.33,1/13/23
+31,James Foster,South Sheilaberg,New Jersey,18,C,34,84685.24,76,83325.82,7/1/21
+72,Taylor Bautista,Lake Judy,Michigan,68,A,59,16522.11,80,46706.93,4/3/23
+19,Ronald Diaz,Natalieton,New Hampshire,32,A,71,76185.56,61,93290.02,6/21/21
+60,Ryan Howard,Maryville,Utah,70,C,29,73044.9,43,8459.97,12/25/21
+55,Roy Bryan,Maloneborough,New Hampshire,67,B,76,32401.42,55,11071.47,9/20/24
+22,Jeffrey Morris,Rebeccaberg,North Carolina,64,A,28,26218.53,47,54175.63,3/26/25
+23,William French,East Kathrynfurt,Florida,47,B,31,87743.36,68,33872.55,3/17/24
+56,Vincent Campbell,Randybury,New Hampshire,78,A,63,10856.91,80,96581.35,1/11/25
+69,Ronnie Gibson,Port Ginaberg,New Hampshire,34,C,24,22637.57,35,96052.52,10/26/24
+74,Chris Edwards,South Jasonfurt,New Mexico,70,A,52,4288.96,22,46407.38,12/21/21
+65,Jerry Davis,Smallstad,Connecticut,22,C,57,1810.54,25,94977.74,9/8/23
+57,Eric Smith,Jenniferstad,California,47,A,22,43605.81,44,95179.54,1/5/25
+77,Eric Gutierrez,North Rachel,Wyoming,60,B,28,25596,31,95272.4,12/27/24
+22,Timothy Clark,South Davidfort,Maryland,34,A,52,29888.28,52,4483.64,3/26/23
+44,John Robertson,Williamsside,Colorado,75,B,20,22095.81,41,62650.58,1/19/23
+77,Alan Thompson,East Kelsey,Indiana,33,B,59,1902.23,60,89115.73,12/9/22
+46,Jesus Martin,Harrisonside,Arkansas,47,A,47,58020.58,71,79619.43,7/4/22
+64,Richard Wood,Brendafurt,Oklahoma,64,A,24,25565.23,77,18496.87,12/19/23
+43,Sergio Sanchez,West Maureenville,Minnesota,69,E,62,12329.05,69,49283.74,4/24/21
+18,Christopher Lee,Mckinneyton,South Dakota,28,A,44,39197.9,50,51971.99,9/25/22
+25,Michael Rogers,New Amanda,West Virginia,44,C,28,2080.96,25,67682.35,3/9/22
+64,Dr. Steven Horton,South Stevestad,Nevada,61,A,65,67241.6,59,7762.22,3/11/25
+74,Joshua Mcgee,Collinsfort,Alabama,71,C,76,28722.73,60,53176.19,12/7/20
+57,Eric Martinez,Kyleside,Utah,33,A,46,93037.69,34,16515.9,4/2/21
+58,Timothy Copeland,Brendafurt,Illinois,37,A,33,39185.94,75,71483.43,8/30/24
+20,Steven Richardson,Bellborough,Mississippi,62,C,18,13285.98,22,34404.84,6/2/21
+59,Jacob Howell,New Kirkberg,New Mexico,71,B,49,2560.03,28,41600.96,10/20/20
+62,Kevin Flores,Stevenside,Kansas,69,B,67,1518.72,46,29309.56,11/11/22
+69,Michael Garcia,Lawrencehaven,Nebraska,58,A,47,61717.99,70,44184.52,9/6/20
+43,Jimmy Lindsey,Lake Linda,Maryland,33,C,24,30392.15,76,41499.19,4/15/24
+69,James Lamb,Rhondastad,Washington,51,C,67,73524.41,53,43376.58,10/10/23
+43,Mr. Joseph Parker PhD,Port Charlesborough,Oklahoma,71,A,49,46859.59,27,16075.42,9/17/22
+66,Brian Lee,North Renee,Georgia,78,A,43,82282.03,53,92247.99,6/8/24
+68,Ronald Brooks,Amandamouth,Minnesota,76,B,19,7689.49,21,8319.22,10/30/23
+70,Anthony Kramer,Davisland,Missouri,73,A,64,78871.67,69,88002.66,3/30/22
+57,Mr. Edward Olsen,New Harry,Arkansas,51,E,64,3250.28,33,26874.5,3/26/21
+78,Michael Morales,South Jessica,Maine,72,A,47,56993.17,65,51170.81,1/21/22
+54,John James,East Alicia,Maryland,31,A,41,52300.85,75,39314.58,7/19/22
+68,Ryan Huerta,Phillipsside,Maine,69,A,44,80815.71,33,17200.51,9/6/21
+22,Patrick Martinez,New Cynthiafort,Georgia,40,A,50,24598.89,61,92389.51,3/28/22
+74,Michael Lara,North Jamesland,Washington,35,A,44,68921.03,21,17787.78,10/19/21
+51,Douglas Martinez,Fischerland,New Mexico,51,A,26,96536.13,79,82296.58,3/18/24
+50,Todd Martin,Torreschester,Illinois,28,A,57,97829.3,46,97809.22,6/8/23
+25,Matthew Salazar,North Patricia,Utah,69,A,23,92543.78,67,6032.17,7/23/21
+69,Timothy Garcia,East Margaretville,Nevada,49,C,67,35860.63,49,26120.64,10/7/21
+41,Joseph Davis,Stanleyburgh,Alabama,65,A,23,92257.36,77,62438.49,10/13/21
+54,Spencer Clark,Garciabury,Georgia,36,C,32,13708.38,66,66510.87,10/30/21
+51,Aaron Murray,Lindsayton,Hawaii,22,D,73,24522.49,63,37514.09,9/18/22
+37,Caleb Page,Jonathanland,Utah,42,A,31,23658.71,59,47143.37,10/21/20
+26,Mark Castro,Livingstonhaven,Georgia,45,A,76,55852.49,56,28322.8,12/2/21
+45,Gary Sanchez,West Brenda,Virginia,22,A,75,23508.31,67,59091.27,7/4/20
+35,Roger Bryant,Johnshire,Georgia,46,B,59,93118.94,31,99547.54,10/12/23
+26,Sean Steele,Griffinton,Virginia,68,C,71,96707.08,21,72498.22,6/28/24
+52,Mark Duncan,Lukeberg,Wisconsin,50,C,22,28948.4,35,56779.23,10/21/21
+59,Tracy Ford DVM,Dustinmouth,Maryland,61,C,18,23201.98,78,42036.52,5/29/21
+63,John Smith,New Stephanie,Louisiana,42,B,54,77359.16,52,76541.07,8/10/20
+34,Stephen Mullins,Archertown,Oregon,54,C,54,38905.54,18,20383.81,3/3/25
+30,Martin Fernandez,Brendastad,Massachusetts,24,B,33,63170.14,31,27979.31,2/28/21
+67,John Villegas,West Williamchester,Missouri,30,A,23,84220.62,43,45153.53,6/21/22
+44,Ryan Luna,East Ronald,Maryland,42,C,40,6885.04,57,63815.1,12/31/23
+51,James Benson,Nancychester,Washington,44,A,24,12724.38,59,70166.36,12/19/20
+62,George Martin,East Leslie,Wisconsin,74,B,69,88049.19,35,95687.17,9/29/23
+46,Christopher Perkins,North Michelleborough,Minnesota,73,A,43,98348.76,44,99607.23,1/16/22
+22,Douglas Jones,South Stevenview,New York,68,A,66,42892.52,48,39187.03,9/19/24
+43,Roger Rodriguez,East Joshuastad,Indiana,49,A,63,3375.37,63,94142.05,3/20/21
+72,Dale Clark,Nolanshire,Kansas,29,B,69,72474.4,51,12004.2,8/1/20
+48,Justin Castaneda,Gomeztown,Utah,38,A,79,90251.13,63,87240.26,1/10/23
+52,Zachary Robinson,Amandafurt,Ohio,47,E,68,89062.63,63,95192.82,1/9/23
+49,Mr. Tracy Flowers DDS,West Kevinmouth,Montana,74,A,68,42407.31,34,26208.49,5/4/21
+61,Justin Choi,South Rachel,Maryland,48,B,73,13784.57,58,11357.27,3/16/22
+19,Ryan Malone,North Derek,Colorado,20,B,64,33231.04,67,68778.1,2/14/23
+47,William Malone,New Nathanielport,Colorado,44,D,27,85404.55,25,52851.79,8/19/24
+54,John Mayer,Ashleyfort,Illinois,33,B,58,60558.33,56,16442.99,6/7/21
+27,Anthony Perez,Port Samantha,Vermont,48,A,72,89023.52,55,57004.76,9/27/20
+43,Robert Perry,Torresshire,Oklahoma,48,A,51,72756.11,27,41203.96,12/3/24
+20,James Johnson,Lawrencetown,Mississippi,30,A,38,67731.4,40,66758.78,11/22/22
+61,Michael Evans,North Kellimouth,Ohio,18,A,29,45492.93,57,51666.71,2/15/22
+57,Jeffrey Vance,North Lisaberg,South Dakota,59,C,71,22524.83,52,4013.71,4/7/23
+42,Bryan Bauer,Hunterton,Alabama,71,C,62,72060.54,28,88263.1,11/23/20
+43,Martin Daniels,West Jeffrey,West Virginia,40,A,58,50781.61,40,51991.83,10/21/20
+59,Benjamin Thomas,North Laurie,Vermont,19,B,71,68153.31,67,20221.9,8/26/22
+47,Lee Perry,East Shannon,Oregon,24,A,27,58166.71,55,19406.75,12/3/23
+41,Jack Garcia,Joseshire,Louisiana,32,B,47,89787.69,64,84860.5,10/20/21
+35,Johnny Johnson,Hoffmanville,Hawaii,41,A,29,70520.76,75,2802.21,9/5/21
+26,Brian Jones,Skinnerchester,Missouri,40,C,18,99957.29,32,50429.99,2/5/22
